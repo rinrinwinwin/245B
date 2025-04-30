@@ -1,3 +1,10 @@
+// Initialize jsPsych instance (MUST do this first in v7+)
+const jsPsych = initJsPsych({
+  on_finish: function() {
+    jsPsych.data.displayData();
+  }
+});
+
 const timeline = [];
 
 // TRAINING TRIALS
@@ -50,22 +57,27 @@ const testTrials = [
 ];
 
 testTrials.forEach(trial => {
+  const imageChoices = trial.choices.map(path => `<img src="${path}" height="100">`);
+
   timeline.push({
     type: jsPsychImageButtonResponse,
     stimulus: `<p>${trial.promptText}</p><p><strong>${trial.promptName}</strong></p>`,
-    choices: trial.choices,
-    data: { correct_choice: trial.correct },
+    choices: imageChoices,
+    button_html: '<button class="jspsych-btn">%choice%</button>',
+    data: {
+      prompt_name: trial.promptName,
+      correct_path: trial.correct
+    },
     on_finish: function(data) {
-      data.correct = trial.choices[data.response] === trial.correct;
+      const selectedPath = trial.choices[data.response];
+      data.selected_path = selectedPath;
+      data.correct = selectedPath === trial.correct;
     }
   });
 });
 
-// RUN EXPERIMENT
-jsPsych.init({
-  timeline: timeline,
-  on_finish: () => jsPsych.data.displayData()
-});
+// Start the experiment
+jsPsych.run(timeline);
 
 
 
