@@ -1,7 +1,3 @@
-const jsPsych = initJsPsych({
-  on_finish: () => jsPsych.data.displayData()
-});
-
 const timeline = [];
 
 // TRAINING TRIALS
@@ -9,12 +5,10 @@ const trainingTrials = [
   {
     prompt: "FEK",
     promptImage: "stimuli/bear_adult_male_01.png",
-    targetImage: "stimuli/bear_child_01.png"
   },
   {
     prompt: "QIK",
     promptImage: "stimuli/fox_adult_male_01.png",
-    targetImage: "stimuli/fox_child_01.png"
   }
 ];
 
@@ -24,8 +18,6 @@ trainingTrials.forEach(trial => {
     stimulus: `
       <p><strong>Prompt:</strong> ${trial.prompt}</p>
       <img src="${trial.promptImage}" height="150"><br>
-      <p>Then becomes:</p>
-      <img src="${trial.targetImage}" height="150"><br>
     `,
     choices: ['Continue']
   });
@@ -69,7 +61,11 @@ testTrials.forEach(trial => {
   });
 });
 
-// START EXPERIMENT
-jsPsych.run(timeline);
+// RUN EXPERIMENT
+jsPsych.init({
+  timeline: timeline,
+  on_finish: () => jsPsych.data.displayData()
+});
+
 
 
