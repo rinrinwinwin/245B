@@ -1,3 +1,7 @@
+const jsPsych = initJsPsych({
+  on_finish: () => jsPsych.data.displayData()
+});
+
 const timeline = [];
 
 // TRAINING TRIALS
@@ -65,9 +69,7 @@ testTrials.forEach(trial => {
   });
 });
 
-// RUN EXPERIMENT
-jsPsych.init({
-  timeline: timeline,
-  on_finish: () => jsPsych.data.displayData()
-});
+// START EXPERIMENT
+jsPsych.run(timeline);
+
 
