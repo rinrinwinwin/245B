@@ -1,6 +1,6 @@
 const timeline = [];
 
-// TRAINING: show prompt + target
+// TRAINING TRIALS
 const trainingTrials = [
   {
     prompt: "FEK",
@@ -16,7 +16,7 @@ const trainingTrials = [
 
 trainingTrials.forEach(trial => {
   timeline.push({
-    type: 'html-button-response',
+    type: jsPsychHtmlButtonResponse,
     stimulus: `
       <p><strong>Prompt:</strong> ${trial.prompt}</p>
       <img src="${trial.promptImage}" height="150"><br>
@@ -27,25 +27,35 @@ trainingTrials.forEach(trial => {
   });
 });
 
-// TEST: prompt name, 4 images, 1 correct
+// TEST TRIALS
 const testTrials = [
   {
     promptName: "QIK",
     promptText: "Which of these is QIK?",
-    choices: ["stimuli/fox_small.png", "stimuli/bear_small.png", "stimuli/basket_small.png", "stimuli/chair_small.png"],
+    choices: [
+      "stimuli/fox_small.png",
+      "stimuli/bear_small.png",
+      "stimuli/basket_small.png",
+      "stimuli/chair_small.png"
+    ],
     correct: "stimuli/bear_small.png"
   },
   {
     promptName: "WUN",
     promptText: "Which of these is WUN?",
-    choices: ["stimuli/bokchoy_small.png", "stimuli/asteroid_small.png", "stimuli/basket_small.png", "stimuli/chair_small.png"],
+    choices: [
+      "stimuli/bokchoy_small.png",
+      "stimuli/asteroid_small.png",
+      "stimuli/basket_small.png",
+      "stimuli/chair_small.png"
+    ],
     correct: "stimuli/bokchoy_small.png"
   }
 ];
 
 testTrials.forEach(trial => {
   timeline.push({
-    type: 'image-button-response',
+    type: jsPsychImageButtonResponse,
     stimulus: `<p>${trial.promptText}</p><p><strong>${trial.promptName}</strong></p>`,
     choices: trial.choices,
     data: { correct_choice: trial.correct },
@@ -55,8 +65,9 @@ testTrials.forEach(trial => {
   });
 });
 
-// START EXPERIMENT
+// RUN EXPERIMENT
 jsPsych.init({
   timeline: timeline,
   on_finish: () => jsPsych.data.displayData()
 });
+
