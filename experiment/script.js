@@ -102,13 +102,23 @@ const attentionCheckTrial = {
   }
 };
 
-
-
 const attentionCheckNode = {
   timeline: [attentionCheckTrial],
-
 };
-// TRAINING TRIALS
+
+const testPhaseAttentionCheck = {
+  type: jsPsychHtmlButtonResponse,
+  stimulus: '<p><strong>Attention Check</strong></p><p>Click the button labeled "Right".</p>',
+  choices: ['Left', 'Right'],
+  data: { task: 'attention-check', correct_response: 1 },
+  on_finish: function(data) {
+    data.correct = data.response === data.correct_response;
+  }
+}
+
+const testPhaseAttentionCheckNode = {
+  timeline: [testPhaseAttentionCheck],
+};
 
 let trialCounter = 0;
 
@@ -190,7 +200,153 @@ trainingTrials.forEach(trial => {
     timeline.push(attentionCheckNode);
   }
 });
-  
+
+function filterInterlocutorsBy(gender, view) {
+  return interlocutorOptions.filter(i => i.gender === gender && i.view === view);
+}
+
+function getBalancedInterlocutorsWithRepeats() {
+  const combos = [
+    ["male", "side"],
+    ["female", "side"],
+    ["male", "front"],
+    ["female", "front"]
+  ];
+
+  let selected = [];
+  combos.forEach(([gender, view]) => {
+    const filtered = filterInterlocutorsBy(gender, view);
+    const sampled = jsPsych.randomization.sampleWithReplacement(filtered, 6);
+    selected = selected.concat(sampled);
+  });
+
+  return jsPsych.randomization.shuffle(selected); 
+}
+
+const balancedInterlocutors = getBalancedInterlocutorsWithRepeats();
+
+const expandedBaseTrials = jsPsych.randomization.shuffle(testTrialsBasic);
+
+function createTestTrialWithSuffix(baseTrial, interlocutor) {
+  const suffix = interlocutor.gender === "female" ? "rik" : "rul";
+  const correct = baseTrial.prompt + suffix;
+  const choices = [baseTrial.prompt + "rik", baseTrial.prompt + "rul"];
+  const shuffledChoices = jsPsych.randomization.shuffle(choices);
+
+
+  return {
+    ...baseTrial,
+    suffix: suffix,
+    interlocutor: interlocutor.file,
+    gender: interlocutor.gender,
+    view: interlocutor.view,
+    choices: shuffledChoices,
+    correct: correct
+  };
+}
+
+const testTrials = expandedBaseTrials.map((base, i) =>
+  createTestTrialWithSuffix(base, balancedInterlocutors[i])
+);
+
+const instructionsPhaseTwo = {
+  type: jsPsychInstructions,
+  pages: [
+    '<div class="content"><h2>Phase 2</h2>' +     
+    '<p>Thank you for completing the learning phase. In the next phase, you will be prompted with a single image</p>' +
+    '<p>and an interlocutor. Please, to the best of your ability, select the option that best matches each prompt.</p>' +
+    '<p>Click "Next" to begin!</p></div>'
+  ],
+  show_clickable_nav: true,
+};
+
+timeline.push(instructionsPhaseTwo);
+
+let testTrialCounter = 0;
+    
+testTrials.forEach(trial => {
+  const testNode = {
+    timeline: [
+      {
+        type: jsPsychHtmlButtonResponse,
+        stimulus: `
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class="test-trial-container" style="display: flex; justify-content: center; gap: 40px; align-items: flex-start;">
+
+        
+        <div class="stimulus-box">
+        <img src="${trial.testImage}" class="stimulus-image">
+        </div>
+
+      
+        <div class="interlocutor-box">
+        <div class="prompt-text">What would I call this?</div>
+        <div class="button-spacing"></div>
+        <img src="${trial.interlocutor}" class="interlocutor-image">
+        </div>
+
+        </div>
+
+        <div class="button-spacing"></div>
+        `,
+        choices: trial.choices,
+        data: {
+          correct_choice: trial.correct,
+          prompt_label: trial.prompt,
+          suffix: trial.suffix,
+          gender: trial.gender,
+          view: trial.view,
+          choices: trial.choices
+        },
+        on_finish: function(data) {
+          const choice = data.response !== null ? data.choices[data.response] : null;
+          data.correct = choice === data.correct_choice;
+        }
+      }
+    ]
+  };
+
+  timeline.push(testNode);
+  timeline.push(fixationCross);
+  testTrialCounter++;
+  if (testTrialCounter % 10 === 0) {
+    const testPhaseAttentionCheckNode = {
+      timeline: [testPhaseAttentionCheck]
+    };
+    timeline.push(testPhaseAttentionCheckNode);
+  }
+});
 
   const save_data = {
     type: jsPsychPipe,
