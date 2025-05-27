@@ -49,14 +49,14 @@ const consent = {
       <h3>Payments</h3>
       <p>You will receive the amount advertised on Prolific. If you do not complete the study, you will receive prorated payment based on time spent. Bonus payments may apply.</p>
 
-      <h3>Participant’s Rights</h3>
+      <h3>Participant Rights</h3>
       <p>Your participation is voluntary. You can withdraw at any time without penalty. You may refuse to answer any questions. Results may be used in publications or shared for future research without identifying information.</p>
 
       <h3>Contact Information</h3>
-      <p><strong>Questions:</strong> Robert Hawkins – <a href="mailto:rdhawkins@stanford.edu">rdhawkins@stanford.edu</a>, 217-549-6923</p>
-      <p><strong>Independent Contact:</strong> Stanford IRB – 650-723-2480 or 1-866-680-2906, <a href="mailto:irbnonmed@stanford.edu">irbnonmed@stanford.edu</a></p>
+      <p><strong>Questions:</strong> Robert Hawkins <a href="mailto:rdhawkins@stanford.edu">rdhawkins@stanford.edu</a>, 217-549-6923</p>
+      <p><strong>Independent Contact:</strong> Stanford IRB 650-723-2480 or 1-866-680-2906, <a href="mailto:irbnonmed@stanford.edu">irbnonmed@stanford.edu</a></p>
 
-      <p><em>Click "Continue" below if you agree to participate.</em></p>
+      <p><em>Click "Next" below if you agree to participate.</em></p>
     </div>
     `
   ],
@@ -71,8 +71,9 @@ const instructions = {
   pages: [
     '<div class="content"><h2>Artificial Language Learning Study</h2>' +     
     '<p>In this experiment, you will be prompted with an image and asked, to the best of your ability, to select</p>' +
-    '<p>the word that correctly corresponds to the image. In the first trial, you will be given feedback for your</p>' +
-    '<p>choice. In the second trial, you will not. Please strive to be as accurate as possible.</p>' +
+    '<p>the word that correctly corresponds to the image. In the first phase, you will be given feedback for your</p>' +
+    '<p>choice. In the second phase, you will not. Please strive to be as accurate as possible. Bonus payments will </p>' +
+    '<p>be distributed to all partipants who score over 80% in the second phase. </p>' +
     '<p>Click "Next" to begin!</p></div>'
   ],
   show_clickable_nav: true,
@@ -139,7 +140,7 @@ const attentionCheckTrial = {
   type: jsPsychSurveyText,
   preamble: function() {
     const last = jsPsych.data.get().filter({is_fixation: undefined}).last(1).values()[0];
-    return `<p><strong>Attention check:</strong> Please type the name you gave to the last object.</p>`;
+    return `<p>Please type the name you gave to the last object.</p>`;
   },
   questions: [
     {
@@ -410,6 +411,28 @@ testTrials.forEach(trial => {
     timeline.push(testPhaseAttentionCheckNode);
   }
 });
+
+
+var cue_guess_question = {
+  type: jsPsychSurveyText,
+  preamble: "<h3>Survey</h3>",
+  questions: [
+    {
+      prompt: "This is an open ended question. Please detail any rules you learned regarding the language. If you do not believe any to exist, type 'None.'",
+      placeholder: "Type your answer here...",
+      rows: 4,
+      columns: 50
+    }
+  ],
+  required: true,
+  on_finish: function(data) {
+    jsPsych.data.addProperties({cue_guess: data.response.Q0});
+  }
+};
+
+timeline.push(cue_guess_question);
+
+
 
   const save_data = {
     type: jsPsychPipe,
