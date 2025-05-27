@@ -411,9 +411,6 @@ testTrials.forEach(trial => {
   }
 });
 
-timeline.push(end_screen);
-
-
   const save_data = {
     type: jsPsychPipe,
     action: "save",
@@ -435,5 +432,7 @@ timeline.push(end_screen);
     `,
     choices: ['Finish']
   };
+
+  timeline.push(end_screen);
 
   jsPsych.run(timeline);
