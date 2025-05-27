@@ -7,10 +7,64 @@ const jsPsych = initJsPsych({
   }
 });
 
+let main_cue = jsPsych.randomization.sampleWithoutReplacement(["gender", "view"], 1)[0];
+let condition = jsPsych.randomization.sampleWithoutReplacement(["short", "long"], 1)[0];
+
+jsPsych.data.addProperties({
+  main_cue: main_cue,
+  condition: condition
+});
+
 const subject_id = jsPsych.randomization.randomID(10);
 const filename = `${subject_id}.csv`;
 
 const timeline = [];
+
+var preload = {
+  type: jsPsychPreload,
+  auto_preload: true
+}
+
+timeline.push(preload);
+
+const consent = {
+  type: jsPsychInstructions,
+  pages: [
+    `
+    <div style="text-align: left; max-width: 800px; margin: auto;">
+      <h2>Stanford University Research Information Sheet</h2>
+      <p><strong>Protocol Director:</strong> Robert Hawkins</p>
+      <p><strong>Protocol Title:</strong> Communication and social cognition in natural audiovisual contexts</p>
+      <p><strong>IRB#:</strong> 77226</p>
+      
+      <h3>Description</h3>
+      <p>You are invited to participate in a research study about language and communication. The purpose of the research is to understand how you interact and communicate with other people in naturalistic settings as a fluent English speaker. This research will be conducted through the Prolific platform, including participants from the US, UK, and Canada. If you decide to participate in this research, you will play a communication game in a group with one or more partners.</p>
+
+      <h3>Time Involvement</h3>
+      <p>The task will last the amount of time advertised on Prolific. You are free to withdraw from the study at any time.</p>
+
+      <h3>Risks and Benefits</h3>
+      <p>You may become frustrated if your partner gets distracted, or experience discomfort if other participants in your group send text that is inappropriate for the task. You may also experience discomfort when being asked to discuss or challenge emotionally salient political beliefs. Data will be stored securely. While we cannot promise direct benefits, this research may advance our understanding of communication and collaboration in naturalistic settings.</p>
+
+      <h3>Payments</h3>
+      <p>You will receive the amount advertised on Prolific. If you do not complete the study, you will receive prorated payment based on time spent. Bonus payments may apply.</p>
+
+      <h3>Participant’s Rights</h3>
+      <p>Your participation is voluntary. You can withdraw at any time without penalty. You may refuse to answer any questions. Results may be used in publications or shared for future research without identifying information.</p>
+
+      <h3>Contact Information</h3>
+      <p><strong>Questions:</strong> Robert Hawkins – <a href="mailto:rdhawkins@stanford.edu">rdhawkins@stanford.edu</a>, 217-549-6923</p>
+      <p><strong>Independent Contact:</strong> Stanford IRB – 650-723-2480 or 1-866-680-2906, <a href="mailto:irbnonmed@stanford.edu">irbnonmed@stanford.edu</a></p>
+
+      <p><em>Click "Continue" below if you agree to participate.</em></p>
+    </div>
+    `
+  ],
+  show_clickable_nav: true,
+  allow_backward: false
+};
+
+timeline.push(consent);
 
 const instructions = {
   type: jsPsychInstructions,
@@ -33,7 +87,12 @@ function getRandomInterlocutor() {
   
   function createTrialWithSuffix(baseTrial) {
     const interlocutor = getRandomInterlocutor();
-    const suffix = interlocutor.gender === "female" ? "rik" : "rul";
+    let suffix;
+    if (main_cue == "gender") {
+      suffix = interlocutor.gender === "female" ? "rik" : "rul";
+    } else {
+      suffix = interlocutor.view === "front" ? "rik" : "rul";
+    }
     const correct = baseTrial.prompt + suffix;
   
     return {
@@ -47,7 +106,7 @@ function getRandomInterlocutor() {
     };
 }
 
-const shuffledBase = jsPsych.randomization.repeat(baseTrials, 1);
+const shuffledBase = jsPsych.randomization.repeat(baseTrials, 1).slice(0, condition === "short" ? 9 : 18);
 const trainingTrials = shuffledBase.map(createTrialWithSuffix);
 
 
@@ -134,7 +193,7 @@ trainingTrials.forEach(trial => {
               padding: 16px;
               margin: 20px auto;
               border-radius: 8px;
-              background-color: #f9f9f9;
+              background-color: #ffffff;
               text-align: center;
             }
             .stimuli-image {
@@ -227,12 +286,16 @@ const balancedInterlocutors = getBalancedInterlocutorsWithRepeats();
 
 const expandedBaseTrials = jsPsych.randomization.shuffle(testTrialsBasic);
 
-function createTestTrialWithSuffix(baseTrial, interlocutor) {
-  const suffix = interlocutor.gender === "female" ? "rik" : "rul";
+function createTestTrialWithSuffix(baseTrial, interlocutor, main_cue) {
+  let suffix;
+  if (main_cue == "gender") {
+    suffix = interlocutor.gender === "female" ? "rik" : "rul";
+  } else {
+    suffix = interlocutor.view === "front" ? "rik" : "rul";
+  }
   const correct = baseTrial.prompt + suffix;
   const choices = [baseTrial.prompt + "rik", baseTrial.prompt + "rul"];
   const shuffledChoices = jsPsych.randomization.shuffle(choices);
-
 
   return {
     ...baseTrial,
@@ -348,6 +411,9 @@ testTrials.forEach(trial => {
   }
 });
 
+timeline.push(end_screen);
+
+
   const save_data = {
     type: jsPsychPipe,
     action: "save",
@@ -357,5 +423,17 @@ testTrials.forEach(trial => {
   };
 
   timeline.push(save_data)
+
+  const end_screen = {
+    type: jsPsychHtmlButtonResponse,
+    stimulus: `
+      <div style="max-width:700px; margin:auto;">
+        <h2>You're finished!</h2>
+        <p>Thank you for participating in this study.</p>
+        <p>Your responses have been recorded.</p>
+      </div>
+    `,
+    choices: ['Finish']
+  };
 
   jsPsych.run(timeline);
