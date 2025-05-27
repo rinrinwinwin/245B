@@ -1,5 +1,3 @@
-// Initialize jsPsych instance (MUST do this first in v7+)
-
 const jsPsych = initJsPsych({
   show_progress_bar: true,
   on_finish: function() {
@@ -85,26 +83,61 @@ timeline.push(instructions);
 function getRandomInterlocutor() {
     return interlocutorOptions[Math.floor(Math.random() * interlocutorOptions.length)];
   }
+
+function getBalancedInterlocutorsWithRepeats(numEach) {
+  const combos = [
+    ["male", "side"],
+    ["female", "side"],
+    ["male", "front"],
+    ["female", "front"]
+  ];
   
-  function createTrialWithSuffix(baseTrial) {
-    const interlocutor = getRandomInterlocutor();
-    let suffix;
-    if (main_cue == "gender") {
-      suffix = interlocutor.gender === "female" ? "rik" : "rul";
-    } else {
-      suffix = interlocutor.view === "front" ? "rik" : "rul";
-    }
-    const correct = baseTrial.prompt + suffix;
+  let selected = [];
+  combos.forEach(([gender, view]) => {
+    const filtered = filterInterlocutorsBy(gender, view);
+    const sampled = jsPsych.randomization.sampleWithReplacement(filtered, numEach);
+    selected = selected.concat(sampled);
+  });
   
-    return {
-      ...baseTrial,
-      suffix: suffix,
-      interlocutor: interlocutor.file,
-      gender: interlocutor.gender,
-      view: interlocutor.view,
-      choices: [baseTrial.prompt + "rik", baseTrial.prompt + "rul"],
-      correct: correct
-    };
+  return jsPsych.randomization.shuffle(selected); 
+}  
+
+
+function getInterlocutorsForLearning(numTrials) {
+  const base = getBalancedInterlocutorsWithRepeats(1); 
+  const needed = numTrials - base.length;
+  const extras = jsPsych.randomization.sampleWithReplacement(base, needed);
+  const fullSet = base.concat(extras);
+  return jsPsych.randomization.shuffle(fullSet); 
+}
+
+let interlocutors;
+if (condition === "long") {
+  interlocutors = getInterlocutorsForLearning(18);
+} else {
+  interlocutors = getInterlocutorsForLearning(9);
+}
+
+  
+function createTrialWithSuffix(baseTrial) {
+  let interlocutor = interlocutors.shift();
+  let suffix;
+  if (main_cue == "gender") {
+    suffix = interlocutor.gender === "female" ? "rik" : "rul";
+  } else {
+    suffix = interlocutor.view === "front" ? "rik" : "rul";
+  }
+  const correct = baseTrial.prompt + suffix;
+  
+  return {
+    ...baseTrial,
+    suffix: suffix,
+    interlocutor: interlocutor.file,
+    gender: interlocutor.gender,
+    view: interlocutor.view,
+    choices: [baseTrial.prompt + "rik", baseTrial.prompt + "rul"],
+    correct: correct
+  };
 }
 
 const shuffledBase = jsPsych.randomization.repeat(baseTrials, 1).slice(0, condition === "short" ? 9 : 18);
@@ -265,25 +298,7 @@ function filterInterlocutorsBy(gender, view) {
   return interlocutorOptions.filter(i => i.gender === gender && i.view === view);
 }
 
-function getBalancedInterlocutorsWithRepeats() {
-  const combos = [
-    ["male", "side"],
-    ["female", "side"],
-    ["male", "front"],
-    ["female", "front"]
-  ];
-
-  let selected = [];
-  combos.forEach(([gender, view]) => {
-    const filtered = filterInterlocutorsBy(gender, view);
-    const sampled = jsPsych.randomization.sampleWithReplacement(filtered, 6);
-    selected = selected.concat(sampled);
-  });
-
-  return jsPsych.randomization.shuffle(selected); 
-}
-
-const balancedInterlocutors = getBalancedInterlocutorsWithRepeats();
+const balancedInterlocutors = getBalancedInterlocutorsWithRepeats(6);
 
 const expandedBaseTrials = jsPsych.randomization.shuffle(testTrialsBasic);
 
