@@ -316,7 +316,6 @@ function createTestTrialWithSuffix(baseTrial, interlocutor, main_cue) {
 
   return {
     ...baseTrial,
-    test_trial: true,
     suffix: suffix,
     interlocutor: interlocutor.file,
     gender: interlocutor.gender,
@@ -403,6 +402,7 @@ testTrials.forEach(trial => {
         `,
         choices: trial.choices,
         data: {
+          test_trial: true,
           correct_choice: trial.correct,
           prompt_label: trial.prompt,
           suffix: trial.suffix,
