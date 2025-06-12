@@ -1,0 +1,111 @@
+---
+title: "Replication of Study X by Sample & Sample (20xx, Psychological Science)"
+author: "Replication Author[s] (contact information)"
+date: "`r format(Sys.time(), '%B %d, %Y')`"
+format:
+  html:
+    toc: true
+    toc_depth: 3
+---
+
+<!-- Replication reports should all use this template to standardize reporting across projects.  These reports will be public supplementary materials that accompany the summary report(s) of the aggregate results. -->
+
+## Introduction
+
+Racz, Hay, and Pierrehumbert (2020) examines how adults learn to associate linguistic patterns with social cues using an artificial language learning paradigm. Building on previous work, participants were trained to associate different allomorphs with different types of conversation partners who varied by socially meaningful features such as gender, age, or ethnicity, as well as less socially relevant cues like spatial orientation. The researchers found that learners were better at forming and generalizing these associations when the cues were socially salient, suggesting that prior social experience influences which indexical features are more easily learned and applied. While socially salient cues founded on gender, ethnicity, and age - in that order - were readily learned by many participants, the non-socially salient cue founded on view was not. The primary aim of this replication study was to validate Racz, Hay, and Pierrehumbert's results pertaining specifically to the gender cue, as well as explore how many examples, on average, participants required to learn the cue.
+
+## Methods
+
+Participants were exposed to an artificial language consisting of two morphological variants (allomorphs) which were probabilistically linked to specific types of conversational partners. These partners were represented by cartoon avatars that varied across different indexical cue dimensions, such as gender, age, ethnicity, and facing direction (henceforth referred to as "view"). Each dimension was manipulated in separate experimental conditions to examine how well learners could form and generalize associations between a cue and allomorph usage.
+
+The experiment used a training and testing phase. During the training phase, comprising 12 or 24 trials in accordance with the short or long conditions respectively, participants heard and saw the avatar produce one variant of the morphological form and were asked to repeat it, establishing an association. The avatars that appeared in the training phase were constrained to a set of four, with one avatar corresponding to each of the following pairs of parameters: \[male, side\], \[female, side\], \[male, front\], and \[female, front\]. Participants were required to repeat trials until they selected the correct morphological form from a set of options. Furthermore, in order to facilitate learning, attention checks in which participants were required to reproduce exactly the correct morphological form in writing were implemented.
+
+In the subsequent test phase, comprising 24 trials, participants were presented with new avatars within the same cue dimension and were asked to produce the correct form, measuring generalization to novel instances. Accuracy in this phase served as the key dependent variable.
+
+### Power Analysis
+
+The original study strove to maintain a \> 30 sample size throughout all of its trials; in practice, 26-48 subjects were tested in each trial. We performed two power analyses to gauge how many participants would be required to maintain 80% power. The analysis conducted based on the b value (b = .79, d = .43) yielded 83 participants, while the analysis conducted on the z value (z = 2.58, n = 31, d = .477) yielded 70 participants. This replication study will thus aim to recruit at least 70 participants. We calculated Cohen's d and confidence intervals based on the z and b (linear regression) values reported for the variable of interest, gender. Based on the original statistics reported in the appendix of the original study, in order to maintain 80% power, at least 80 participants (\~40 participants per group) would be required. Because we added an additional independent variable tied to the length of the training phase, we surmised that we would require double the number of participants for our replication study (160).
+
+### Materials
+
+Players always saw four conversation partners in the training phase and twenty (four repeats) in the test phase.(For a full list, see https://github.com/rinrinwinwin/245B/tree/main/experiment/interlocutor). In accordance with the original study, "the two pairs in the training phase could be grouped in two ways. One of these determined the suffix choice—this we call the main cue. The other one should be ignored by the player—this we call the competitor cue. "The four pairs in the test phase could be grouped in an additional way: Four of a kind were familiar from training, and \[the remaining sixteen\] were new." The new conversation partners introduced several new dimensions of contrast, representing other socially salient cues such as age or ethnicity not explicitly explored in this replication study.
+
+"In the example from the previous section, the main cue was gender, which had determined the correct answer in training; the competitor cue was view, the partner's spatial orientation, which was to be ignored. The test phase introduced new partners drawn from the pool of images unused in the training. So far, we have discussed conceptual similarities across our conversation partner images (such as same gender, age). However, these images were also perceptually similar to each other in shape and color, and this partially overlapped with conceptual similarities."
+
+"Participants encountered six items in the training phase, and they encountered these same six items along with six additional items in the test phase. We distributed the 12 item images randomly across the test phase and the training phase for each participant. We also picked suffixes and assigned stems to images randomly for each participant."
+
+"We built item names in the task from an artificial language. Because the focus of the task was social association, the artificial language itself was deliberately simple. For each participant, we drew syllables randomly from a finite syllabary that contained the following 14 items: fek; rul; rik; wan; wuk; fen; fal; wun; pel; tas; ril; fis; tol; tos."
+
+"We used two syllables as suffixes, and we randomly assigned the remaining 12 syllables as names to the 12 items used in the training and test phases (i.e., six syllables in the training phases to which we added six more syllables for the test phase)."
+
+"The syllabary reflected the following design principles: the syllables should be distinctive; they should consist of a small set of frequent letters; they should be easy to pronounce for our participants, who were American English speakers; and the consonant clusters in the two-syllable words should cue English word boundaries in a uniform manner. Our aim was to provide an optimal set that balanced these considerations."
+
+"We used the diminutive as the contextually cued morphology because the diminutive is a common, iconic pattern that is easy to interpret visually. However, the diminutive form is highly variable in English, and it has strong associations with gender in many languages (Jurafsky, 1993). In order to make our findings more robust, we repeated two conditions using plural instead of diminutive as the morphological category. In these repeated conditions, participants performed the same task with plural images rather than with diminutive ones. The words were similar, the implied meaning different."
+
+"In the diminutive condition, the representation of the target item was a smaller, exaggerated, cuter version of the large item (see Figure 1 for a mushroom and a tiny mushroom). In the plural condition, the representation of the target item was a picture of three of the target items, normally scaled instead of one diminutive version."
+
+### Procedure
+
+200 participants were recruited on Prolific, with no constraints set on their demographics.
+
+\[Copied from Methods Section\] The experiment used a training and testing phase. During the training phase, comprising 12 or 24 trials in accordance with the short or long conditions respectively, participants heard and saw the avatar produce one variant of the morphological form and were asked to repeat it, establishing an association. The avatars that appeared in the training phase were constrained to a set of four, with one avatar corresponding to each of the following pairs of parameters: \[male, side\], \[female, side\], \[male, front\], and \[female, front\]. Participants were required to repeat trials until they selected the correct morphological form from a set of options. Furthermore, in order to facilitate learning, attention checks in which participants were required to reproduce exactly the correct morphological form in writing were implemented.
+
+In the subsequent test phase, comprising 24 trials, participants were presented with new avatars within the same cue dimension and were asked to produce the correct form, measuring generalization to novel instances. Accuracy in this phase served as the key dependent variable.
+
+### Analysis Plan
+
+The analysis pipeline closely followed the procedure outlined in the original study: "We report results primarily from the test phase. We used participants’ training performance as a predictor of their accuracy in the test phase. We report the estimates of a main model fit on the diminutive data only and provide a series of secondary models to test the robustness of the test-phase results.
+
+We used the lme4 package (Bates, Mächler, Bolker, & Walker, 2015) implemented in R (R Core Team, 2018) for model fitting and ggplot (Wickham, 2016) for plots. In Rácz et al. (2017), we reported results for the gender (view) and view (gender) conditions. We report these here again, analyzed in combination with the other conditions. We fit Model 1 on test-phase data for the diminutive. We compared diminutive and plural data in Model 2. We tested the effect of perceptual versus conceptual distance between conversation partner images in the test phase in Model 3. In Model 4, we refit Model 1 while resampling the participants."
+
+### Differences from Original Study
+
+The full sample of the original study, measured across 4 x 4 combinations of main cues and competitor cues, was 474 participants. Since we intended to only examine the gender cue (e.g. 2 combinations of mc/cc, namely \[gender/view\] and \[view/gender\]), we recruited 200 participants, as per our original power analysis. The original study was conducted through Amazon Mechanical Turk; as it is a crowdsourcing marketplace similar in conception to Prolific, we do not anticipate any meaningful differences to derive from this swap in platform.
+
+In addition to the set of stimuli provided by the original researchers, we added 20 additional item prompts (along with 40 new allomorphs) and 12 additional interlocutors. To the best of our ability, we wanted to avoid the repetition of item prompts and to limit the repetition of interlocutors in the test phase.
+
+In the learning phase, instead of being sent back to the (i-1)th trial after failing the (i)th trial, participants were only asked to repeat the (i)th trial. We suspect this might reduce the effectiveness of participants' learning. In order to compensate for this difference, we added attention checks in which participants were required to reproduce the exact correct allomorph of the previous trial. These attention checks occurred every three trials in the learning phase.
+
+In addition, at the end of the experiment, participants were required to submit a free response to the question "What did you learn about the language?"; participants were allowed to write "none" if they could not come up with any rule. A significant portion of participants learned *some* fact about the suffixes of the allomorphs.
+
+#### Actual Sample
+
+200 participants completed the study hosted on Prolific. However, only 192 data files were logged due to technical errors with DataPipe. As all participants answered 3-4 out of 4 attention checks correctly, none of the data was excluded. Most participants who answered one attention check incorrectly either (1) made minor typos or (2) only missed the first attention check; we deemed their performance on the remaining attention checks to be sufficient evidence that they made some effort to learn and remember the rules of the language.
+
+#### Differences from pre-data collection methods plan
+
+None.
+
+## Results
+
+### Data preparation
+
+Please see https://github.com/rinrinwinwin/245B/tree/main/analysis for full analysis code in R.
+
+### Confirmatory analysis
+
+The analyses as specified in the analysis plan.
+
+**Our Result**:
+
+![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUfSap38jnBHB-XNQoTbPc_ygzv6eSwO4o60fy0iyA-jnnxBOYvQw4KbR4oeLrSar4XpKroz6gqQ8gMko1ixywkb0h_GJxrscJZNHTnk71Pgp2oKzd4btPbFwKlbrPFzIf6vOzLS4Q=s2048?key=E5AOuxtFnY7xbpvMKQ1vMA)
+
+**Original Study**:
+
+![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUc2qomVqyH4XVV0ZnC8eYreMPU93bwk5l6nQFlf01O85nvf5T5snMhDxOx1skFGln7JvuYRGEp8bK3gtWn0VnooCC9qTCgT_JPZDD_h1B7tl49wg31c85PZb1qxRfKlBr44fNndVQ=s2048?key=E5AOuxtFnY7xbpvMKQ1vMA)
+
+**Our Results II**
+
+## ![](images/clipboard-2240623832.png)Discussion
+
+### Summary of Replication Attempt
+
+After running the same analyses Racz, Hay, and Pierrehumbert (2020) performed on their data, we found that the results did not replicate. As a matter of fact, the not socially salient "view" cue seemed to be more readily learned than the socially salient "gender" cue. ![](images/clipboard-3916784122.png)
+
+The data from the written survey question provided more nuance to the data; first and foremost, we were able to conclude that the length of the training period greatly impacted participants' abilities to learn the cues. In addition, although the "gender" cue was less readily learned in the short condition, a similar proportion of participants (relative to the "view" cue) learned it in the "long" condition. We reached out to participants to examine why these results did not reflect in their accuracy rates, and found that the randomization of the buttons hindered their abilities to answer correctly.
+
+### Commentary
+
+When the results of a study do not replicate, we are immediately confronted with two possibilities: (1) the original researchers experienced a winner's curse and the effect size of the phenomena was truly not that large or (2) some alteration we made in our replication that we perceived to be inconsequential proved to be consequential. The expanded stimuli set may have caused each trial to be "noisier", disallowing participants to learn the indexical cues effectively. The learning phase of our experiment for participants assigned in the "long" condition was the same length as that of the original study; however, participants were only required to repeat one trial instead of two trials following a wrong answer, which may have reduced the effectiveness of their learning.
+
+With regards to theory, we suggest two reasons why both the socially salient and not socially salient cue hovered around the same accuracy rates. Participants may have. been actively attempting to avoid stereotyping; when people are asked to "learn a language", their first impulse might be to search for patterns based on the objects themselves instead of the interlocutors. Our second theory is that participants are more readily able to learn indexical cues based on readily discretized variables. View, in actuality, is not represented by two discrete states (e.g. "front" and "side") as it was in our experiment; while it may have been easy to learn in the context of this clean setting, it is, in actuality, far more unlikely that participants draw conclusions as to how people might speak based on the way they are standing.
