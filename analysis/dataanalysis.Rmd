@@ -1,0 +1,61 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+​
+Catherine Thao Nguyen
+​
+library(tidyverse)
+library(ggplot2)
+library(lme4)
+
+Code for loading multiple CSVs
+
+# Load in data
+# This charming loop is courtesy of Claude 
+# Set the directory path
+data_dir <- "../../replicationStudyData"
+
+# Get list of CSV File names 
+csv_files <- list.files(path = data_dir, pattern = "\\.csv$", full.names = TRUE, recursive = FALSE)
+
+if (length(csv_files) == 0) {
+  cat("No CSV files found in the directory:", data_dir, "\n")
+} else {
+  data_list <- list()
+  
+  for (file in csv_files) {
+    # Extract the file name without extension to use as list name
+    file_name <- tools::file_path_sans_ext(basename(file))
+    #strip filename of path
+    subject_id <- sub(".*/", "", file_name)
+    
+    # cat("Loading file:", file, "\n")
+    data_list[[file_name]] <- read.csv(file) %>% 
+      mutate(subject_id = subject_id)
+  }
+}
+
+df.data_raw <- do.call(rbind, data_list) %>% tibble() 
+
+library(dplyr)
+
+# Ensure 'correct' is logical
+df.data_raw$correct <- tolower(as.character(df.data_raw$correct)) == TRUE
+
+# Filter and summarize
+df.percent_accuracy <- df.data_raw %>%
+  filter(trial_type == "html-button-response", !is.na(correct), !is.na(main_cue)) %>%
+  group_by(subject_id, main_cue) %>%
+  summarise(
+    total_trials = n(),
+    num_correct = sum(correct),
+    percent_accuracy = 100 * num_correct / total_trials,
+    .groups = "drop"
+  )
+
+# Inspect
+print(head(df.percent_accuracy))
+
+
