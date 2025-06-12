@@ -1,0 +1,1710 @@
+"success","timeout","failed_images","failed_audio","failed_video","trial_type","trial_index","time_elapsed","internal_node_id","main_cue","condition","cue_guess","view_history","rt","stimulus","response","test_trial","correct_choice","prompt_label","choices","suffix","gender","view","is_fixation","attention_check","correct","typed_response","expected_label","task","correct_response"
+"true","false","[]","[]","[]","preload","0","6","0.0-0.0","view","short","If the subject is watching left the word needs to end in -rul. ","","","","","","","","","","","","","","","","","",""
+"","","","","","instructions","1","3742","0.0-1.0","view","short","If the subject is watching left the word needs to end in -rul. ","[{""page_index"":0,""viewing_time"":3736}]","3736","","","","","","","","","","","","","","","",""
+"","","","","","instructions","2","26452","0.0-2.0","view","short","If the subject is watching left the word needs to end in -rul. ","[{""page_index"":0,""viewing_time"":22708}]","22708","","","","","","","","","","","","","","","",""
+"","","","","","html-button-response","3","35550","0.0-3.0-0.0","view","short","If the subject is watching left the word needs to end in -rul. ","","9096","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Ara</strong>.</p>
+                <img src=""stimuli/camera_large.jpg"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/camera_small.jpg"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/child_female.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","1","false","Ararik","Ara","[""Ararik"",""Ararul""]","rik","female","front","false","false","false","","","",""
+"","","","","","html-keyboard-response","4","36551","0.0-3.0-1.0-0.0","view","short","If the subject is watching left the word needs to end in -rul. ","","null","<p style='color:red; font-size: 24px;'>Incorrect! Please try again.</p>","null","","","","","","","","","","","","","",""
+"","","","","","html-button-response","5","43949","0.0-3.1-0.1","view","short","If the subject is watching left the word needs to end in -rul. ","","7397","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Ara</strong>.</p>
+                <img src=""stimuli/camera_large.jpg"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/camera_small.jpg"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/child_female.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","0","false","Ararik","Ara","[""Ararik"",""Ararul""]","rik","female","front","false","false","true","","","",""
+"","","","","","html-keyboard-response","6","44462","0.0-4.0","view","short","If the subject is watching left the word needs to end in -rul. ","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","7","52380","0.0-5.0-0.0","view","short","If the subject is watching left the word needs to end in -rul. ","","7917","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Fob</strong>.</p>
+                <img src=""stimuli/bear_adult_male_01.png"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/bear_child_01.png"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/child_male_02.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","0","false","Fobrik","Fob","[""Fobrik"",""Fobrul""]","rik","male","front","false","false","true","","","",""
+"","","","","","html-keyboard-response","8","52886","0.0-6.0","view","short","If the subject is watching left the word needs to end in -rul. ","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","9","58207","0.0-7.0-0.0","view","short","If the subject is watching left the word needs to end in -rul. ","","5322","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Pib</strong>.</p>
+                <img src=""stimuli/candleholder_adult_01.png"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/candleholder_child_01.png"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/child_female.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","0","false","Pibrik","Pib","[""Pibrik"",""Pibrul""]","rik","female","front","false","false","true","","","",""
+"","","","","","html-keyboard-response","10","58712","0.0-8.0","view","short","If the subject is watching left the word needs to end in -rul. ","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","survey-text","11","76882","0.0-9.0-0.0","view","short","If the subject is watching left the word needs to end in -rul. ","","18170","","{""Q0"":""pibrik""}","","","","","","","","","true","true","pibrik","pibrik","",""
+"","","","","","html-button-response","12","86647","0.0-10.0-0.0","view","short","If the subject is watching left the word needs to end in -rul. ","","9763","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Dan</strong>.</p>
+                <img src=""stimuli/bokchoy_adult_01.png"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/bokchoy_child_01.png"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/child_female_side.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","0","false","Danrul","Dan","[""Danrik"",""Danrul""]","rul","female","side","false","false","false","","","",""
+"","","","","","html-keyboard-response","13","87653","0.0-10.0-1.0-0.0","view","short","If the subject is watching left the word needs to end in -rul. ","","null","<p style='color:red; font-size: 24px;'>Incorrect! Please try again.</p>","null","","","","","","","","","","","","","",""
+"","","","","","html-button-response","14","90997","0.0-10.1-0.1","view","short","If the subject is watching left the word needs to end in -rul. ","","3344","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Dan</strong>.</p>
+                <img src=""stimuli/bokchoy_adult_01.png"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/bokchoy_child_01.png"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/child_female_side.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","1","false","Danrul","Dan","[""Danrik"",""Danrul""]","rul","female","side","false","false","true","","","",""
+"","","","","","html-keyboard-response","15","91506","0.0-11.0","view","short","If the subject is watching left the word needs to end in -rul. ","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","16","98437","0.0-12.0-0.0","view","short","If the subject is watching left the word needs to end in -rul. ","","6929","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Yor</strong>.</p>
+                <img src=""stimuli/gate_adult_01.png"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/gate_child_01.png"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/child_female_side.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","1","false","Yorrul","Yor","[""Yorrik"",""Yorrul""]","rul","female","side","false","false","true","","","",""
+"","","","","","html-keyboard-response","17","98943","0.0-13.0","view","short","If the subject is watching left the word needs to end in -rul. ","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","18","107054","0.0-14.0-0.0","view","short","If the subject is watching left the word needs to end in -rul. ","","8111","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Rim</strong>.</p>
+                <img src=""stimuli/light_small.jpeg"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/light_large.png"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/child_female.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","0","false","Rimrik","Rim","[""Rimrik"",""Rimrul""]","rik","female","front","false","false","true","","","",""
+"","","","","","html-keyboard-response","19","107568","0.0-15.0","view","short","If the subject is watching left the word needs to end in -rul. ","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","survey-text","20","118889","0.0-16.0-0.0","view","short","If the subject is watching left the word needs to end in -rul. ","","11320","","{""Q0"":""Rimrik""}","","","","","","","","","true","true","rimrik","rimrik","",""
+"","","","","","html-button-response","21","125316","0.0-17.0-0.0","view","short","If the subject is watching left the word needs to end in -rul. ","","6426","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Baj</strong>.</p>
+                <img src=""stimuli/yogurt_small.jpg"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/yogurt_large.png"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/adult_male_side.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","1","false","Bajrul","Baj","[""Bajrik"",""Bajrul""]","rul","male","side","false","false","true","","","",""
+"","","","","","html-keyboard-response","22","125829","0.0-18.0","view","short","If the subject is watching left the word needs to end in -rul. ","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","23","129682","0.0-19.0-0.0","view","short","If the subject is watching left the word needs to end in -rul. ","","3852","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Hux</strong>.</p>
+                <img src=""stimuli/pitcher_adult_01.png"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/pitcher_child_01.png"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/adult_male_side.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","1","false","Huxrul","Hux","[""Huxrik"",""Huxrul""]","rul","male","side","false","false","true","","","",""
+"","","","","","html-keyboard-response","24","130189","0.0-20.0","view","short","If the subject is watching left the word needs to end in -rul. ","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","25","133229","0.0-21.0-0.0","view","short","If the subject is watching left the word needs to end in -rul. ","","3038","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Mox</strong>.</p>
+                <img src=""stimuli/small_boat.jpg"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/large_boat.png"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/child_female_side.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","1","false","Moxrul","Mox","[""Moxrik"",""Moxrul""]","rul","female","side","false","false","true","","","",""
+"","","","","","html-keyboard-response","26","133731","0.0-22.0","view","short","If the subject is watching left the word needs to end in -rul. ","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","survey-text","27","141179","0.0-23.0-0.0","view","short","If the subject is watching left the word needs to end in -rul. ","","7447","","{""Q0"":""Moxrul""}","","","","","","","","","true","true","moxrul","moxrul","",""
+"","","","","","instructions","28","154798","0.0-24.0","view","short","If the subject is watching left the word needs to end in -rul. ","[{""page_index"":0,""viewing_time"":13619}]","13619","","","","","","","","","","","","","","","",""
+"","","","","","html-button-response","29","164286","0.0-25.0-0.0","view","short","If the subject is watching left the word needs to end in -rul. ","","9488","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/toothbrush.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/adult_female.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","1","true","Zanrik","Zan","[""Zanrul"",""Zanrik""]","rik","female","front","","","true","","","",""
+"","","","","","html-keyboard-response","30","164798","0.0-26.0","view","short","If the subject is watching left the word needs to end in -rul. ","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","31","168494","0.0-27.0-0.0","view","short","If the subject is watching left the word needs to end in -rul. ","","3694","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/bell.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/child_male_02.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","0","true","Mozrik","Moz","[""Mozrik"",""Mozrul""]","rik","male","front","","","true","","","",""
+"","","","","","html-keyboard-response","32","169000","0.0-28.0","view","short","If the subject is watching left the word needs to end in -rul. ","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","33","172948","0.0-29.0-0.0","view","short","If the subject is watching left the word needs to end in -rul. ","","3946","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""stimuli/bokchoy_adult_01.png"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/teen_male_side.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","1","true","Danrul","Dan","[""Danrik"",""Danrul""]","rul","male","side","","","true","","","",""
+"","","","","","html-keyboard-response","34","173460","0.0-30.0","view","short","If the subject is watching left the word needs to end in -rul. ","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","35","178251","0.0-31.0-0.0","view","short","If the subject is watching left the word needs to end in -rul. ","","4789","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""stimuli/gate_adult_01.png"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/adult_male_02_side.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","1","true","Yorrul","Yor","[""Yorrik"",""Yorrul""]","rul","male","side","","","true","","","",""
+"","","","","","html-keyboard-response","36","178766","0.0-32.0","view","short","If the subject is watching left the word needs to end in -rul. ","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","37","186388","0.0-33.0-0.0","view","short","If the subject is watching left the word needs to end in -rul. ","","7622","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/fish.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/child_female_02.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","1","true","Selrik","Sel","[""Selrul"",""Selrik""]","rik","female","front","","","true","","","",""
+"","","","","","html-keyboard-response","38","186898","0.0-34.0","view","short","If the subject is watching left the word needs to end in -rul. ","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","39","192613","0.0-35.0-0.0","view","short","If the subject is watching left the word needs to end in -rul. ","","5714","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/bird.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/elder_female_side.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","1","true","Telrul","Tel","[""Telrik"",""Telrul""]","rul","female","side","","","true","","","",""
+"","","","","","html-keyboard-response","40","193129","0.0-36.0","view","short","If the subject is watching left the word needs to end in -rul. ","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","41","196835","0.0-37.0-0.0","view","short","If the subject is watching left the word needs to end in -rul. ","","3707","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/globe.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/child_male_side.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","0","true","Vekrul","Vek","[""Vekrul"",""Vekrik""]","rul","male","side","","","true","","","",""
+"","","","","","html-keyboard-response","42","197345","0.0-38.0","view","short","If the subject is watching left the word needs to end in -rul. ","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","43","201891","0.0-39.0-0.0","view","short","If the subject is watching left the word needs to end in -rul. ","","4546","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/chair.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/child_male.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","0","true","Yanrik","Yan","[""Yanrik"",""Yanrul""]","rik","male","front","","","true","","","",""
+"","","","","","html-keyboard-response","44","202400","0.0-40.0","view","short","If the subject is watching left the word needs to end in -rul. ","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","45","205490","0.0-41.0-0.0","view","short","If the subject is watching left the word needs to end in -rul. ","","3090","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/horse.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/adult_female_02_side.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","0","true","Bewrul","Bew","[""Bewrul"",""Bewrik""]","rul","female","side","","","true","","","",""
+"","","","","","html-keyboard-response","46","206003","0.0-42.0","view","short","If the subject is watching left the word needs to end in -rul. ","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","47","211618","0.0-43.0-0.0","view","short","If the subject is watching left the word needs to end in -rul. ","","5615","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""stimuli/pitcher_adult_01.png"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/adult_male.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","0","true","Huxrik","Hux","[""Huxrik"",""Huxrul""]","rik","male","front","","","true","","","",""
+"","","","","","html-keyboard-response","48","212133","0.0-44.0","view","short","If the subject is watching left the word needs to end in -rul. ","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","49","216853","0.0-45.0-0.0","view","short","If the subject is watching left the word needs to end in -rul. ","","4721","<p><strong>Attention Check</strong></p><p>Click the button labeled ""Right"".</p>","1","","","","","","","","","","true","","","attention-check","1"
+"","","","","","html-button-response","50","224735","0.0-46.0-0.0","view","short","If the subject is watching left the word needs to end in -rul. ","","7881","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/sandwich.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/child_male_02.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","0","true","Nixrik","Nix","[""Nixrik"",""Nixrul""]","rik","male","front","","","true","","","",""
+"","","","","","html-keyboard-response","51","225235","0.0-47.0","view","short","If the subject is watching left the word needs to end in -rul. ","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","52","232633","0.0-48.0-0.0","view","short","If the subject is watching left the word needs to end in -rul. ","","7396","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/car.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/adult_female_side.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","0","true","Ronrul","Ron","[""Ronrul"",""Ronrik""]","rul","female","side","","","true","","","",""
+"","","","","","html-keyboard-response","53","233147","0.0-49.0","view","short","If the subject is watching left the word needs to end in -rul. ","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","54","237006","0.0-50.0-0.0","view","short","If the subject is watching left the word needs to end in -rul. ","","3857","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/elder.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/elder_female.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","0","true","Gynrik","Gyn","[""Gynrik"",""Gynrul""]","rik","female","front","","","true","","","",""
+"","","","","","html-keyboard-response","55","237521","0.0-51.0","view","short","If the subject is watching left the word needs to end in -rul. ","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","56","243125","0.0-52.0-0.0","view","short","If the subject is watching left the word needs to end in -rul. ","","5604","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/cherry.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/child_female_side.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","0","true","Fumrul","Fum","[""Fumrul"",""Fumrik""]","rul","female","side","","","true","","","",""
+"","","","","","html-keyboard-response","57","243633","0.0-53.0","view","short","If the subject is watching left the word needs to end in -rul. ","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","58","245675","0.0-54.0-0.0","view","short","If the subject is watching left the word needs to end in -rul. ","","2042","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/corn.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/child_male_02_side.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","0","true","Lumrul","Lum","[""Lumrul"",""Lumrik""]","rul","male","side","","","true","","","",""
+"","","","","","html-keyboard-response","59","246184","0.0-55.0","view","short","If the subject is watching left the word needs to end in -rul. ","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","60","248900","0.0-56.0-0.0","view","short","If the subject is watching left the word needs to end in -rul. ","","2715","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/school.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/elder_female_side.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","1","true","Rivrul","Riv","[""Rivrik"",""Rivrul""]","rul","female","side","","","true","","","",""
+"","","","","","html-keyboard-response","61","249410","0.0-57.0","view","short","If the subject is watching left the word needs to end in -rul. ","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","62","254135","0.0-58.0-0.0","view","short","If the subject is watching left the word needs to end in -rul. ","","4724","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/man.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/child_male_02_side.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","1","true","Tyrrul","Tyr","[""Tyrrik"",""Tyrrul""]","rul","male","side","","","true","","","",""
+"","","","","","html-keyboard-response","63","254637","0.0-59.0","view","short","If the subject is watching left the word needs to end in -rul. ","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","64","258230","0.0-60.0-0.0","view","short","If the subject is watching left the word needs to end in -rul. ","","3593","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/tree.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/adult_female.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","1","true","Jorrik","Jor","[""Jorrul"",""Jorrik""]","rik","female","front","","","true","","","",""
+"","","","","","html-keyboard-response","65","258736","0.0-61.0","view","short","If the subject is watching left the word needs to end in -rul. ","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","66","265843","0.0-62.0-0.0","view","short","If the subject is watching left the word needs to end in -rul. ","","7106","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/couch.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/child_female.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","0","true","Nixrik","Nix","[""Nixrik"",""Nixrul""]","rik","female","front","","","true","","","",""
+"","","","","","html-keyboard-response","67","266345","0.0-63.0","view","short","If the subject is watching left the word needs to end in -rul. ","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","68","269787","0.0-64.0-0.0","view","short","If the subject is watching left the word needs to end in -rul. ","","3442","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/bag.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/adult_female_02_side.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","0","true","Gulrul","Gul","[""Gulrul"",""Gulrik""]","rul","female","side","","","true","","","",""
+"","","","","","html-keyboard-response","69","270291","0.0-65.0","view","short","If the subject is watching left the word needs to end in -rul. ","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","70","273739","0.0-66.0-0.0","view","short","If the subject is watching left the word needs to end in -rul. ","","3448","<p><strong>Attention Check</strong></p><p>Click the button labeled ""Right"".</p>","1","","","","","","","","","","true","","","attention-check","1"
+"","","","","","html-button-response","71","279545","0.0-67.0-0.0","view","short","If the subject is watching left the word needs to end in -rul. ","","5804","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""stimuli/bear_adult_male_01.png"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/teen_male.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","1","true","Fobrik","Fob","[""Fobrul"",""Fobrik""]","rik","male","front","","","true","","","",""
+"","","","","","html-keyboard-response","72","280047","0.0-68.0","view","short","If the subject is watching left the word needs to end in -rul. ","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","73","282223","0.0-69.0-0.0","view","short","If the subject is watching left the word needs to end in -rul. ","","2175","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/woman.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/child_female_02.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","1","true","Daprik","Dap","[""Daprul"",""Daprik""]","rik","female","front","","","true","","","",""
+"","","","","","html-keyboard-response","74","282737","0.0-70.0","view","short","If the subject is watching left the word needs to end in -rul. ","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","75","284907","0.0-71.0-0.0","view","short","If the subject is watching left the word needs to end in -rul. ","","2169","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/candy.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/teen_male.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","0","true","Wibrik","Wib","[""Wibrik"",""Wibrul""]","rik","male","front","","","true","","","",""
+"","","","","","html-keyboard-response","76","285420","0.0-72.0","view","short","If the subject is watching left the word needs to end in -rul. ","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","77","287683","0.0-73.0-0.0","view","short","If the subject is watching left the word needs to end in -rul. ","","2263","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/plane.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/child_male_side.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","1","true","Meyrul","Mey","[""Meyrik"",""Meyrul""]","rul","male","side","","","true","","","",""
+"","","","","","html-keyboard-response","78","288193","0.0-74.0","view","short","If the subject is watching left the word needs to end in -rul. ","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","survey-text","79","385974","0.0-75.0","view","short","If the subject is watching left the word needs to end in -rul. ","","97779","","{""Q0"":""If the subject is watching left the word needs to end in -rul. ""}","","","","","","","","","","","","","",""

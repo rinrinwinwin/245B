@@ -1,0 +1,2328 @@
+"success","timeout","failed_images","failed_audio","failed_video","trial_type","trial_index","time_elapsed","internal_node_id","main_cue","condition","cue_guess","view_history","rt","stimulus","response","test_trial","correct_choice","prompt_label","choices","suffix","gender","view","is_fixation","attention_check","correct","typed_response","expected_label","task","correct_response"
+"true","false","[]","[]","[]","preload","0","22","0.0-0.0","gender","long","none","","","","","","","","","","","","","","","","","",""
+"","","","","","instructions","1","123455","0.0-1.0","gender","long","none","[{""page_index"":0,""viewing_time"":123437}]","123438","","","","","","","","","","","","","","","",""
+"","","","","","instructions","2","127716","0.0-2.0","gender","long","none","[{""page_index"":0,""viewing_time"":4260}]","4260","","","","","","","","","","","","","","","",""
+"","","","","","html-button-response","3","183217","0.0-3.0-0.0","gender","long","none","","55500","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Rim</strong>.</p>
+                <img src=""stimuli/light_small.jpeg"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/light_large.png"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/child_female.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","1","false","Rimrik","Rim","[""Rimrik"",""Rimrul""]","rik","female","front","false","false","false","","","",""
+"","","","","","html-keyboard-response","4","184220","0.0-3.0-1.0-0.0","gender","long","none","","null","<p style='color:red; font-size: 24px;'>Incorrect! Please try again.</p>","null","","","","","","","","","","","","","",""
+"","","","","","html-button-response","5","185815","0.0-3.1-0.1","gender","long","none","","1593","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Rim</strong>.</p>
+                <img src=""stimuli/light_small.jpeg"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/light_large.png"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/child_female.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","0","false","Rimrik","Rim","[""Rimrik"",""Rimrul""]","rik","female","front","false","false","true","","","",""
+"","","","","","html-keyboard-response","6","186318","0.0-4.0","gender","long","none","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","7","189249","0.0-5.0-0.0","gender","long","none","","2929","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Mox</strong>.</p>
+                <img src=""stimuli/small_boat.jpg"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/large_boat.png"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/child_female.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","0","false","Moxrik","Mox","[""Moxrik"",""Moxrul""]","rik","female","front","false","false","true","","","",""
+"","","","","","html-keyboard-response","8","189752","0.0-6.0","gender","long","none","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","9","193366","0.0-7.0-0.0","gender","long","none","","3612","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Ibo</strong>.</p>
+                <img src=""stimuli/daisy_adult.png"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/daisy_small.png"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/child_female.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","0","false","Iborik","Ibo","[""Iborik"",""Iborul""]","rik","female","front","false","false","true","","","",""
+"","","","","","html-keyboard-response","10","193869","0.0-8.0","gender","long","none","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","survey-text","11","198146","0.0-9.0-0.0","gender","long","none","","4270","","{""Q0"":""robrik""}","","","","","","","","","true","false","robrik","iborik","",""
+"","","","","","html-button-response","12","200998","0.0-10.0-0.0","gender","long","none","","2850","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Han</strong>.</p>
+                <img src=""stimuli/chair_adult_02.png"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/chair_small.png"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/child_male.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","1","false","Hanrul","Han","[""Hanrik"",""Hanrul""]","rul","male","front","false","false","true","","","",""
+"","","","","","html-keyboard-response","13","201500","0.0-11.0","gender","long","none","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","14","203682","0.0-12.0-0.0","gender","long","none","","2180","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Fon</strong>.</p>
+                <img src=""stimuli/drawer.png"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/warddrobe.jpg"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/child_female.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","1","false","Fonrik","Fon","[""Fonrik"",""Fonrul""]","rik","female","front","false","false","false","","","",""
+"","","","","","html-keyboard-response","15","204685","0.0-12.0-1.0-0.0","gender","long","none","","null","<p style='color:red; font-size: 24px;'>Incorrect! Please try again.</p>","null","","","","","","","","","","","","","",""
+"","","","","","html-button-response","16","205566","0.0-12.1-0.1","gender","long","none","","879","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Fon</strong>.</p>
+                <img src=""stimuli/drawer.png"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/warddrobe.jpg"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/child_female.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","0","false","Fonrik","Fon","[""Fonrik"",""Fonrul""]","rik","female","front","false","false","true","","","",""
+"","","","","","html-keyboard-response","17","206068","0.0-13.0","gender","long","none","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","18","210132","0.0-14.0-0.0","gender","long","none","","4062","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Fek</strong>.</p>
+                <img src=""stimuli/fox_adult_male_01.png"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/fox_child_01.png"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/child_male.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","1","false","Fekrul","Fek","[""Fekrik"",""Fekrul""]","rul","male","front","false","false","true","","","",""
+"","","","","","html-keyboard-response","19","210634","0.0-15.0","gender","long","none","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","survey-text","20","234086","0.0-16.0-0.0","gender","long","none","","23450","","{""Q0"":""rubrik""}","","","","","","","","","true","false","rubrik","fekrul","",""
+"","","","","","html-button-response","21","238516","0.0-17.0-0.0","gender","long","none","","4429","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Ara</strong>.</p>
+                <img src=""stimuli/camera_large.jpg"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/camera_small.jpg"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/child_male_side.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","1","false","Ararul","Ara","[""Ararik"",""Ararul""]","rul","male","side","false","false","true","","","",""
+"","","","","","html-keyboard-response","22","239019","0.0-18.0","gender","long","none","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","23","241481","0.0-19.0-0.0","gender","long","none","","2461","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Lom</strong>.</p>
+                <img src=""stimuli/bunny.jpg"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/rabbit.jpg"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/child_female.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","1","false","Lomrik","Lom","[""Lomrik"",""Lomrul""]","rik","female","front","false","false","false","","","",""
+"","","","","","html-keyboard-response","24","242484","0.0-19.0-1.0-0.0","gender","long","none","","null","<p style='color:red; font-size: 24px;'>Incorrect! Please try again.</p>","null","","","","","","","","","","","","","",""
+"","","","","","html-button-response","25","243283","0.0-19.1-0.1","gender","long","none","","796","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Lom</strong>.</p>
+                <img src=""stimuli/bunny.jpg"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/rabbit.jpg"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/child_female.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","0","false","Lomrik","Lom","[""Lomrik"",""Lomrul""]","rik","female","front","false","false","true","","","",""
+"","","","","","html-keyboard-response","26","243785","0.0-20.0","gender","long","none","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","27","248199","0.0-21.0-0.0","gender","long","none","","4412","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Pib</strong>.</p>
+                <img src=""stimuli/candleholder_adult_01.png"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/candleholder_child_01.png"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/child_female.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","0","false","Pibrik","Pib","[""Pibrik"",""Pibrul""]","rik","female","front","false","false","true","","","",""
+"","","","","","html-keyboard-response","28","248701","0.0-22.0","gender","long","none","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","survey-text","29","252691","0.0-23.0-0.0","gender","long","none","","3987","","{""Q0"":""pubrik""}","","","","","","","","","true","false","pubrik","pibrik","",""
+"","","","","","html-button-response","30","255582","0.0-24.0-0.0","gender","long","none","","2889","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Ola</strong>.</p>
+                <img src=""stimuli/basket_small.png"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/basket_large.png"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/child_male.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","0","false","Olarul","Ola","[""Olarik"",""Olarul""]","rul","male","front","false","false","false","","","",""
+"","","","","","html-keyboard-response","31","256584","0.0-24.0-1.0-0.0","gender","long","none","","null","<p style='color:red; font-size: 24px;'>Incorrect! Please try again.</p>","null","","","","","","","","","","","","","",""
+"","","","","","html-button-response","32","257581","0.0-24.1-0.1","gender","long","none","","995","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Ola</strong>.</p>
+                <img src=""stimuli/basket_small.png"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/basket_large.png"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/child_male.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","1","false","Olarul","Ola","[""Olarik"",""Olarul""]","rul","male","front","false","false","true","","","",""
+"","","","","","html-keyboard-response","33","258082","0.0-25.0","gender","long","none","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","34","260265","0.0-26.0-0.0","gender","long","none","","2182","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Ked</strong>.</p>
+                <img src=""stimuli/mushroom_adult_01.png"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/mushroom_child_01.png"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/child_male_side.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","1","false","Kedrul","Ked","[""Kedrik"",""Kedrul""]","rul","male","side","false","false","true","","","",""
+"","","","","","html-keyboard-response","35","260767","0.0-27.0","gender","long","none","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","36","262665","0.0-28.0-0.0","gender","long","none","","1896","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Cov</strong>.</p>
+                <img src=""stimuli/penguin.png"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/penguin_large.png"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/child_female.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","1","false","Covrik","Cov","[""Covrik"",""Covrul""]","rik","female","front","false","false","false","","","",""
+"","","","","","html-keyboard-response","37","263667","0.0-28.0-1.0-0.0","gender","long","none","","null","<p style='color:red; font-size: 24px;'>Incorrect! Please try again.</p>","null","","","","","","","","","","","","","",""
+"","","","","","html-button-response","38","264366","0.0-28.1-0.1","gender","long","none","","696","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Cov</strong>.</p>
+                <img src=""stimuli/penguin.png"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/penguin_large.png"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/child_female.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","0","false","Covrik","Cov","[""Covrik"",""Covrul""]","rik","female","front","false","false","true","","","",""
+"","","","","","html-keyboard-response","39","264868","0.0-29.0","gender","long","none","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","survey-text","40","268375","0.0-30.0-0.0","gender","long","none","","3504","","{""Q0"":""robrik""}","","","","","","","","","true","false","robrik","covrik","",""
+"","","","","","html-button-response","41","270815","0.0-31.0-0.0","gender","long","none","","2438","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Hux</strong>.</p>
+                <img src=""stimuli/pitcher_adult_01.png"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/pitcher_child_01.png"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/adult_female_side.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","0","false","Huxrik","Hux","[""Huxrik"",""Huxrul""]","rik","female","side","false","false","true","","","",""
+"","","","","","html-keyboard-response","42","271316","0.0-32.0","gender","long","none","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","43","273231","0.0-33.0-0.0","gender","long","none","","1913","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Baj</strong>.</p>
+                <img src=""stimuli/yogurt_small.jpg"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/yogurt_large.png"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/child_male_side.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","1","false","Bajrul","Baj","[""Bajrik"",""Bajrul""]","rul","male","side","false","false","true","","","",""
+"","","","","","html-keyboard-response","44","273732","0.0-34.0","gender","long","none","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","45","275231","0.0-35.0-0.0","gender","long","none","","1498","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Dan</strong>.</p>
+                <img src=""stimuli/bokchoy_adult_01.png"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/bokchoy_child_01.png"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/child_male.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","0","false","Danrul","Dan","[""Danrik"",""Danrul""]","rul","male","front","false","false","false","","","",""
+"","","","","","html-keyboard-response","46","276234","0.0-35.0-1.0-0.0","gender","long","none","","null","<p style='color:red; font-size: 24px;'>Incorrect! Please try again.</p>","null","","","","","","","","","","","","","",""
+"","","","","","html-button-response","47","277314","0.0-35.1-0.1","gender","long","none","","1079","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Dan</strong>.</p>
+                <img src=""stimuli/bokchoy_adult_01.png"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/bokchoy_child_01.png"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/child_male.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","1","false","Danrul","Dan","[""Danrik"",""Danrul""]","rul","male","front","false","false","true","","","",""
+"","","","","","html-keyboard-response","48","277816","0.0-36.0","gender","long","none","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","survey-text","49","281263","0.0-37.0-0.0","gender","long","none","","3445","","{""Q0"":""rubril""}","","","","","","","","","true","false","rubril","danrul","",""
+"","","","","","html-button-response","50","283631","0.0-38.0-0.0","gender","long","none","","2366","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Fob</strong>.</p>
+                <img src=""stimuli/bear_adult_male_01.png"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/bear_child_01.png"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/child_female.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","1","false","Fobrik","Fob","[""Fobrik"",""Fobrul""]","rik","female","front","false","false","false","","","",""
+"","","","","","html-keyboard-response","51","284633","0.0-38.0-1.0-0.0","gender","long","none","","null","<p style='color:red; font-size: 24px;'>Incorrect! Please try again.</p>","null","","","","","","","","","","","","","",""
+"","","","","","html-button-response","52","285582","0.0-38.1-0.1","gender","long","none","","947","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Fob</strong>.</p>
+                <img src=""stimuli/bear_adult_male_01.png"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/bear_child_01.png"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/child_female.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","0","false","Fobrik","Fob","[""Fobrik"",""Fobrul""]","rik","female","front","false","false","true","","","",""
+"","","","","","html-keyboard-response","53","286084","0.0-39.0","gender","long","none","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","54","288014","0.0-40.0-0.0","gender","long","none","","1928","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Yor</strong>.</p>
+                <img src=""stimuli/gate_adult_01.png"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/gate_child_01.png"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/child_male.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","0","false","Yorrul","Yor","[""Yorrik"",""Yorrul""]","rul","male","front","false","false","false","","","",""
+"","","","","","html-keyboard-response","55","289017","0.0-40.0-1.0-0.0","gender","long","none","","null","<p style='color:red; font-size: 24px;'>Incorrect! Please try again.</p>","null","","","","","","","","","","","","","",""
+"","","","","","html-button-response","56","289563","0.0-40.1-0.1","gender","long","none","","545","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Yor</strong>.</p>
+                <img src=""stimuli/gate_adult_01.png"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/gate_child_01.png"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/child_male.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","1","false","Yorrul","Yor","[""Yorrik"",""Yorrul""]","rul","male","front","false","false","true","","","",""
+"","","","","","html-keyboard-response","57","290064","0.0-41.0","gender","long","none","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","58","292747","0.0-42.0-0.0","gender","long","none","","2682","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Nuv</strong>.</p>
+                <img src=""stimuli/asteroid_small.png"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/asteroid_large.jpg"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/adult_female_side.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","0","false","Nuvrik","Nuv","[""Nuvrik"",""Nuvrul""]","rik","female","side","false","false","true","","","",""
+"","","","","","html-keyboard-response","59","293250","0.0-43.0","gender","long","none","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","survey-text","60","297351","0.0-44.0-0.0","gender","long","none","","4099","","{""Q0"":""ruvik""}","","","","","","","","","true","false","ruvik","nuvrik","",""
+"","","","","","instructions","61","299130","0.0-45.0","gender","long","none","[{""page_index"":0,""viewing_time"":1778}]","1778","","","","","","","","","","","","","","","",""
+"","","","","","html-button-response","62","302165","0.0-46.0-0.0","gender","long","none","","3035","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/horse.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/teen_male.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","1","true","Bewrik","Bew","[""Bewrul"",""Bewrik""]","rik","male","front","","","true","","","",""
+"","","","","","html-keyboard-response","63","302668","0.0-47.0","gender","long","none","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","64","304381","0.0-48.0-0.0","gender","long","none","","1712","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/chair.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/child_male_02.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","1","true","Yanrik","Yan","[""Yanrul"",""Yanrik""]","rik","male","front","","","true","","","",""
+"","","","","","html-keyboard-response","65","304884","0.0-49.0","gender","long","none","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","66","308149","0.0-50.0-0.0","gender","long","none","","3264","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/car.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/elder_male_side.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","0","true","Ronrul","Ron","[""Ronrul"",""Ronrik""]","rul","male","side","","","true","","","",""
+"","","","","","html-keyboard-response","67","308651","0.0-51.0","gender","long","none","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","68","310164","0.0-52.0-0.0","gender","long","none","","1512","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/man.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/adult_female_02.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","0","true","Tyrrik","Tyr","[""Tyrrul"",""Tyrrik""]","rik","female","front","","","false","","","",""
+"","","","","","html-keyboard-response","69","310667","0.0-53.0","gender","long","none","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","70","327948","0.0-54.0-0.0","gender","long","none","","17280","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/elder.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/child_male_02.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","0","true","Gynrik","Gyn","[""Gynrik"",""Gynrul""]","rik","male","front","","","true","","","",""
+"","","","","","html-keyboard-response","71","328451","0.0-55.0","gender","long","none","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","72","330298","0.0-56.0-0.0","gender","long","none","","1846","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/sandwich.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/child_male_side.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","1","true","Nixrul","Nix","[""Nixrul"",""Nixrik""]","rul","male","side","","","false","","","",""
+"","","","","","html-keyboard-response","73","330801","0.0-57.0","gender","long","none","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","74","332481","0.0-58.0-0.0","gender","long","none","","1679","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/corn.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/adult_female_side.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","0","true","Lumrul","Lum","[""Lumrul"",""Lumrik""]","rul","female","side","","","true","","","",""
+"","","","","","html-keyboard-response","75","332983","0.0-59.0","gender","long","none","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","76","334712","0.0-60.0-0.0","gender","long","none","","1728","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""stimuli/pitcher_adult_01.png"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/adult_male_02_side.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","0","true","Huxrul","Hux","[""Huxrik"",""Huxrul""]","rul","male","side","","","false","","","",""
+"","","","","","html-keyboard-response","77","335214","0.0-61.0","gender","long","none","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","78","336149","0.0-62.0-0.0","gender","long","none","","932","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/couch.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/teen_male_side.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","1","true","Nixrul","Nix","[""Nixrik"",""Nixrul""]","rul","male","side","","","true","","","",""
+"","","","","","html-keyboard-response","79","336651","0.0-63.0","gender","long","none","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","80","340464","0.0-64.0-0.0","gender","long","none","","3812","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/fish.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/adult_female_02.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","0","true","Selrik","Sel","[""Selrik"",""Selrul""]","rik","female","front","","","true","","","",""
+"","","","","","html-keyboard-response","81","340966","0.0-65.0","gender","long","none","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","82","343164","0.0-66.0-0.0","gender","long","none","","2196","<p><strong>Attention Check</strong></p><p>Click the button labeled ""Right"".</p>","1","","","","","","","","","","true","","","attention-check","1"
+"","","","","","html-button-response","83","346498","0.0-67.0-0.0","gender","long","none","","3333","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/woman.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/child_male_02.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","0","true","Daprik","Dap","[""Daprik"",""Daprul""]","rik","male","front","","","true","","","",""
+"","","","","","html-keyboard-response","84","347001","0.0-68.0","gender","long","none","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","85","348131","0.0-69.0-0.0","gender","long","none","","1129","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""stimuli/bear_adult_male_01.png"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/child_female_03.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","0","true","Fobrik","Fob","[""Fobrik"",""Fobrul""]","rik","female","front","","","true","","","",""
+"","","","","","html-keyboard-response","86","348633","0.0-70.0","gender","long","none","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","87","349747","0.0-71.0-0.0","gender","long","none","","1112","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/bag.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/child_female_side.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","1","true","Gulrul","Gul","[""Gulrik"",""Gulrul""]","rul","female","side","","","true","","","",""
+"","","","","","html-keyboard-response","88","350249","0.0-72.0","gender","long","none","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","89","351697","0.0-73.0-0.0","gender","long","none","","1446","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/bird.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/child_female.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","1","true","Telrik","Tel","[""Telrik"",""Telrul""]","rik","female","front","","","false","","","",""
+"","","","","","html-keyboard-response","90","352199","0.0-74.0","gender","long","none","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","91","353732","0.0-75.0-0.0","gender","long","none","","1531","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/cherry.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/adult_female_02_side.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","1","true","Fumrul","Fum","[""Fumrik"",""Fumrul""]","rul","female","side","","","true","","","",""
+"","","","","","html-keyboard-response","92","354234","0.0-76.0","gender","long","none","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","93","356180","0.0-77.0-0.0","gender","long","none","","1945","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/toothbrush.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/teen_male.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","0","true","Zanrik","Zan","[""Zanrul"",""Zanrik""]","rik","male","front","","","false","","","",""
+"","","","","","html-keyboard-response","94","356681","0.0-78.0","gender","long","none","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","95","357814","0.0-79.0-0.0","gender","long","none","","1131","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""stimuli/gate_adult_01.png"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/child_female_side.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","0","true","Yorrul","Yor","[""Yorrul"",""Yorrik""]","rul","female","side","","","true","","","",""
+"","","","","","html-keyboard-response","96","358316","0.0-80.0","gender","long","none","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","97","360864","0.0-81.0-0.0","gender","long","none","","2546","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/plane.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/elder_female_side.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","1","true","Meyrul","Mey","[""Meyrik"",""Meyrul""]","rul","female","side","","","true","","","",""
+"","","","","","html-keyboard-response","98","361366","0.0-82.0","gender","long","none","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","99","363264","0.0-83.0-0.0","gender","long","none","","1896","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/globe.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/child_female_02_side.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","0","true","Vekrul","Vek","[""Vekrul"",""Vekrik""]","rul","female","side","","","true","","","",""
+"","","","","","html-keyboard-response","100","363766","0.0-84.0","gender","long","none","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","101","365498","0.0-85.0-0.0","gender","long","none","","1731","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/tree.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/adult_male_side.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","0","true","Jorrul","Jor","[""Jorrik"",""Jorrul""]","rul","male","side","","","false","","","",""
+"","","","","","html-keyboard-response","102","366000","0.0-86.0","gender","long","none","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","103","367881","0.0-87.0-0.0","gender","long","none","","1879","<p><strong>Attention Check</strong></p><p>Click the button labeled ""Right"".</p>","1","","","","","","","","","","true","","","attention-check","1"
+"","","","","","html-button-response","104","369630","0.0-88.0-0.0","gender","long","none","","1748","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/candy.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/child_female.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","1","true","Wibrik","Wib","[""Wibrul"",""Wibrik""]","rik","female","front","","","true","","","",""
+"","","","","","html-keyboard-response","105","370133","0.0-89.0","gender","long","none","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","106","371598","0.0-90.0-0.0","gender","long","none","","1464","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/school.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/adult_male.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","1","true","Rivrik","Riv","[""Rivrul"",""Rivrik""]","rik","male","front","","","true","","","",""
+"","","","","","html-keyboard-response","107","372100","0.0-91.0","gender","long","none","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","108","376232","0.0-92.0-0.0","gender","long","none","","4130","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""stimuli/bokchoy_adult_01.png"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/child_male_side.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","1","true","Danrul","Dan","[""Danrul"",""Danrik""]","rul","male","side","","","false","","","",""
+"","","","","","html-keyboard-response","109","376735","0.0-93.0","gender","long","none","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","110","378615","0.0-94.0-0.0","gender","long","none","","1878","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/bell.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/child_female_03.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","1","true","Mozrik","Moz","[""Mozrik"",""Mozrul""]","rik","female","front","","","false","","","",""
+"","","","","","html-keyboard-response","111","379117","0.0-95.0","gender","long","none","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","survey-text","112","384216","0.0-96.0","gender","long","none","","5086","","{""Q0"":""none""}","","","","","","","","","","","","","",""

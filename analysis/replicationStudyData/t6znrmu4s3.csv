@@ -1,0 +1,2082 @@
+"success","timeout","failed_images","failed_audio","failed_video","trial_type","trial_index","time_elapsed","internal_node_id","main_cue","condition","cue_guess","view_history","rt","stimulus","response","test_trial","correct_choice","prompt_label","choices","suffix","gender","view","is_fixation","attention_check","correct","typed_response","expected_label","task","correct_response"
+"true","false","[]","[]","[]","preload","0","6","0.0-0.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","","","","","","","","","","","","","","","","",""
+"","","","","","instructions","1","3539","0.0-1.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","[{""page_index"":0,""viewing_time"":3532}]","3532","","","","","","","","","","","","","","","",""
+"","","","","","instructions","2","7983","0.0-2.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","[{""page_index"":0,""viewing_time"":4442}]","4443","","","","","","","","","","","","","","","",""
+"","","","","","html-button-response","3","15839","0.0-3.0-0.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","7855","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Nuv</strong>.</p>
+                <img src=""stimuli/asteroid_small.png"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/asteroid_large.jpg"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/elder_female_side.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","0","false","Nuvrul","Nuv","[""Nuvrik"",""Nuvrul""]","rul","female","side","false","false","false","","","",""
+"","","","","","html-keyboard-response","4","16842","0.0-3.0-1.0-0.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","null","<p style='color:red; font-size: 24px;'>Incorrect! Please try again.</p>","null","","","","","","","","","","","","","",""
+"","","","","","html-button-response","5","19256","0.0-3.1-0.1","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","2414","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Nuv</strong>.</p>
+                <img src=""stimuli/asteroid_small.png"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/asteroid_large.jpg"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/elder_female_side.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","1","false","Nuvrul","Nuv","[""Nuvrik"",""Nuvrul""]","rul","female","side","false","false","true","","","",""
+"","","","","","html-keyboard-response","6","19769","0.0-4.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","7","24052","0.0-5.0-0.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","4283","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Dan</strong>.</p>
+                <img src=""stimuli/bokchoy_adult_01.png"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/bokchoy_child_01.png"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/child_male.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","0","false","Danrik","Dan","[""Danrik"",""Danrul""]","rik","male","front","false","false","true","","","",""
+"","","","","","html-keyboard-response","8","24569","0.0-6.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","9","29813","0.0-7.0-0.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","5242","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Cov</strong>.</p>
+                <img src=""stimuli/penguin.png"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/penguin_large.png"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/adult_female_02.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","0","false","Covrik","Cov","[""Covrik"",""Covrul""]","rik","female","front","false","false","true","","","",""
+"","","","","","html-keyboard-response","10","30324","0.0-8.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","survey-text","11","37019","0.0-9.0-0.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","6690","","{""Q0"":""Covrik""}","","","","","","","","","true","true","covrik","covrik","",""
+"","","","","","html-button-response","12","41301","0.0-10.0-0.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","4280","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Rim</strong>.</p>
+                <img src=""stimuli/light_small.jpeg"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/light_large.png"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/elder_female_side.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","1","false","Rimrul","Rim","[""Rimrik"",""Rimrul""]","rul","female","side","false","false","true","","","",""
+"","","","","","html-keyboard-response","13","41804","0.0-11.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","14","45086","0.0-12.0-0.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","3279","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Ked</strong>.</p>
+                <img src=""stimuli/mushroom_adult_01.png"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/mushroom_child_01.png"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/elder_female_side.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","1","false","Kedrul","Ked","[""Kedrik"",""Kedrul""]","rul","female","side","false","false","true","","","",""
+"","","","","","html-keyboard-response","15","45596","0.0-13.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","16","83696","0.0-14.0-0.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","38099","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Pib</strong>.</p>
+                <img src=""stimuli/candleholder_adult_01.png"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/candleholder_child_01.png"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/adult_female_02.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","0","false","Pibrik","Pib","[""Pibrik"",""Pibrul""]","rik","female","front","false","false","true","","","",""
+"","","","","","html-keyboard-response","17","84197","0.0-15.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","survey-text","18","87646","0.0-16.0-0.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","3447","","{""Q0"":""pibrik""}","","","","","","","","","true","true","pibrik","pibrik","",""
+"","","","","","html-button-response","19","90422","0.0-17.0-0.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","2774","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Baj</strong>.</p>
+                <img src=""stimuli/yogurt_small.jpg"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/yogurt_large.png"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/child_male.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","0","false","Bajrik","Baj","[""Bajrik"",""Bajrul""]","rik","male","front","false","false","true","","","",""
+"","","","","","html-keyboard-response","20","90928","0.0-18.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","21","92978","0.0-19.0-0.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","2049","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Fek</strong>.</p>
+                <img src=""stimuli/fox_adult_male_01.png"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/fox_child_01.png"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/child_male.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","0","false","Fekrik","Fek","[""Fekrik"",""Fekrul""]","rik","male","front","false","false","true","","","",""
+"","","","","","html-keyboard-response","22","93493","0.0-20.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","23","96495","0.0-21.0-0.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","3000","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Han</strong>.</p>
+                <img src=""stimuli/chair_adult_02.png"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/chair_small.png"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/adult_female_02.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","0","false","Hanrik","Han","[""Hanrik"",""Hanrul""]","rik","female","front","false","false","true","","","",""
+"","","","","","html-keyboard-response","24","96997","0.0-22.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","survey-text","25","100015","0.0-23.0-0.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","3015","","{""Q0"":""hanrik""}","","","","","","","","","true","true","hanrik","hanrik","",""
+"","","","","","html-button-response","26","103689","0.0-24.0-0.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","3672","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Ara</strong>.</p>
+                <img src=""stimuli/camera_large.jpg"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/camera_small.jpg"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/child_male_02_side.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","1","false","Ararul","Ara","[""Ararik"",""Ararul""]","rul","male","side","false","false","true","","","",""
+"","","","","","html-keyboard-response","27","104192","0.0-25.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","28","106982","0.0-26.0-0.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","2789","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Yor</strong>.</p>
+                <img src=""stimuli/gate_adult_01.png"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/gate_child_01.png"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/child_male.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","0","false","Yorrik","Yor","[""Yorrik"",""Yorrul""]","rik","male","front","false","false","true","","","",""
+"","","","","","html-keyboard-response","29","107483","0.0-27.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","30","110403","0.0-28.0-0.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","2918","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Hux</strong>.</p>
+                <img src=""stimuli/pitcher_adult_01.png"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/pitcher_child_01.png"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/adult_female_02.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","0","false","Huxrik","Hux","[""Huxrik"",""Huxrul""]","rik","female","front","false","false","true","","","",""
+"","","","","","html-keyboard-response","31","110912","0.0-29.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","survey-text","32","114257","0.0-30.0-0.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","3343","","{""Q0"":""huxrik""}","","","","","","","","","true","true","huxrik","huxrik","",""
+"","","","","","html-button-response","33","117216","0.0-31.0-0.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","2958","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Mox</strong>.</p>
+                <img src=""stimuli/small_boat.jpg"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/large_boat.png"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/child_male_02_side.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","0","false","Moxrul","Mox","[""Moxrik"",""Moxrul""]","rul","male","side","false","false","false","","","",""
+"","","","","","html-keyboard-response","34","118222","0.0-31.0-1.0-0.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","null","<p style='color:red; font-size: 24px;'>Incorrect! Please try again.</p>","null","","","","","","","","","","","","","",""
+"","","","","","html-button-response","35","119240","0.0-31.1-0.1","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","1017","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Mox</strong>.</p>
+                <img src=""stimuli/small_boat.jpg"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/large_boat.png"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/child_male_02_side.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","1","false","Moxrul","Mox","[""Moxrik"",""Moxrul""]","rul","male","side","false","false","true","","","",""
+"","","","","","html-keyboard-response","36","119753","0.0-32.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","37","121348","0.0-33.0-0.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","1594","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Fob</strong>.</p>
+                <img src=""stimuli/bear_adult_male_01.png"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/bear_child_01.png"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/child_male_02_side.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","1","false","Fobrul","Fob","[""Fobrik"",""Fobrul""]","rul","male","side","false","false","true","","","",""
+"","","","","","html-keyboard-response","38","121850","0.0-34.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","39","123554","0.0-35.0-0.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","1703","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Fon</strong>.</p>
+                <img src=""stimuli/drawer.png"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/warddrobe.jpg"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/child_male_02_side.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","1","false","Fonrul","Fon","[""Fonrik"",""Fonrul""]","rul","male","side","false","false","true","","","",""
+"","","","","","html-keyboard-response","40","124057","0.0-36.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","survey-text","41","126675","0.0-37.0-0.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","2617","","{""Q0"":""fonrul""}","","","","","","","","","true","true","fonrul","fonrul","",""
+"","","","","","html-button-response","42","129857","0.0-38.0-0.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","3181","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Ibo</strong>.</p>
+                <img src=""stimuli/daisy_adult.png"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/daisy_small.png"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/elder_female_side.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","1","false","Iborul","Ibo","[""Iborik"",""Iborul""]","rul","female","side","false","false","true","","","",""
+"","","","","","html-keyboard-response","43","130361","0.0-39.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","44","132771","0.0-40.0-0.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","2409","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Ola</strong>.</p>
+                <img src=""stimuli/basket_small.png"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/basket_large.png"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/adult_female_02.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","0","false","Olarik","Ola","[""Olarik"",""Olarul""]","rik","female","front","false","false","true","","","",""
+"","","","","","html-keyboard-response","45","133274","0.0-41.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","46","135256","0.0-42.0-0.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","1981","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Lom</strong>.</p>
+                <img src=""stimuli/bunny.jpg"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/rabbit.jpg"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/elder_female_side.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","1","false","Lomrul","Lom","[""Lomrik"",""Lomrul""]","rul","female","side","false","false","true","","","",""
+"","","","","","html-keyboard-response","47","135768","0.0-43.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","survey-text","48","140914","0.0-44.0-0.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","5143","","{""Q0"":""lomrul""}","","","","","","","","","true","true","lomrul","lomrul","",""
+"","","","","","instructions","49","145520","0.0-45.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","[{""page_index"":0,""viewing_time"":4606}]","4606","","","","","","","","","","","","","","","",""
+"","","","","","html-button-response","50","149297","0.0-46.0-0.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","3776","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/globe.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/child_male_side.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","1","true","Vekrul","Vek","[""Vekrul"",""Vekrik""]","rul","male","side","","","false","","","",""
+"","","","","","html-keyboard-response","51","149810","0.0-47.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","52","152677","0.0-48.0-0.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","2866","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/elder.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/child_male_02_side.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","1","true","Gynrul","Gyn","[""Gynrul"",""Gynrik""]","rul","male","side","","","false","","","",""
+"","","","","","html-keyboard-response","53","153192","0.0-49.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","54","154869","0.0-50.0-0.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","1676","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/horse.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/child_female_side.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","1","true","Bewrul","Bew","[""Bewrul"",""Bewrik""]","rul","female","side","","","false","","","",""
+"","","","","","html-keyboard-response","55","155371","0.0-51.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","56","157069","0.0-52.0-0.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","1696","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/plane.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/child_male.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","0","true","Meyrik","Mey","[""Meyrul"",""Meyrik""]","rik","male","front","","","false","","","",""
+"","","","","","html-keyboard-response","57","157580","0.0-53.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","58","159132","0.0-54.0-0.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","1550","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/cherry.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/elder_female.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","0","true","Fumrik","Fum","[""Fumrul"",""Fumrik""]","rik","female","front","","","false","","","",""
+"","","","","","html-keyboard-response","59","159642","0.0-55.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","60","161683","0.0-56.0-0.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","2039","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/bag.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/child_female_03.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","1","true","Gulrik","Gul","[""Gulrik"",""Gulrul""]","rik","female","front","","","false","","","",""
+"","","","","","html-keyboard-response","61","162191","0.0-57.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","62","163748","0.0-58.0-0.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","1556","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/tree.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/teen_male_side.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","1","true","Jorrul","Jor","[""Jorrul"",""Jorrik""]","rul","male","side","","","false","","","",""
+"","","","","","html-keyboard-response","63","164259","0.0-59.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","64","165679","0.0-60.0-0.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","1418","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/corn.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/child_male_02.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","1","true","Lumrik","Lum","[""Lumrik"",""Lumrul""]","rik","male","front","","","false","","","",""
+"","","","","","html-keyboard-response","65","166191","0.0-61.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","66","168228","0.0-62.0-0.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","2036","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/chair.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/adult_female_02_side.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","1","true","Yanrul","Yan","[""Yanrul"",""Yanrik""]","rul","female","side","","","false","","","",""
+"","","","","","html-keyboard-response","67","168737","0.0-63.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","68","169867","0.0-64.0-0.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","1128","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/bell.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/teen_male_side.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","1","true","Mozrul","Moz","[""Mozrul"",""Mozrik""]","rul","male","side","","","false","","","",""
+"","","","","","html-keyboard-response","69","170374","0.0-65.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","70","174653","0.0-66.0-0.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","4278","<p><strong>Attention Check</strong></p><p>Click the button labeled ""Right"".</p>","1","","","","","","","","","","true","","","attention-check","1"
+"","","","","","html-button-response","71","177271","0.0-67.0-0.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","2616","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/candy.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/elder_female.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","0","true","Wibrik","Wib","[""Wibrul"",""Wibrik""]","rik","female","front","","","false","","","",""
+"","","","","","html-keyboard-response","72","177772","0.0-68.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","73","179712","0.0-69.0-0.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","1938","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/sandwich.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/teen_male.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","1","true","Nixrik","Nix","[""Nixrik"",""Nixrul""]","rik","male","front","","","false","","","",""
+"","","","","","html-keyboard-response","74","180223","0.0-70.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","75","181604","0.0-71.0-0.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","1380","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""stimuli/bokchoy_adult_01.png"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/adult_male_02_side.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","0","true","Danrul","Dan","[""Danrik"",""Danrul""]","rul","male","side","","","false","","","",""
+"","","","","","html-keyboard-response","76","182105","0.0-72.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","77","186798","0.0-73.0-0.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","4692","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/bird.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/child_female.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","1","true","Telrik","Tel","[""Telrik"",""Telrul""]","rik","female","front","","","false","","","",""
+"","","","","","html-keyboard-response","78","187308","0.0-74.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","79","189211","0.0-75.0-0.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","1902","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/man.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/child_female.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","1","true","Tyrrik","Tyr","[""Tyrrul"",""Tyrrik""]","rik","female","front","","","true","","","",""
+"","","","","","html-keyboard-response","80","189727","0.0-76.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","81","191222","0.0-77.0-0.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","1494","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/toothbrush.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/adult_male_02.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","1","true","Zanrik","Zan","[""Zanrik"",""Zanrul""]","rik","male","front","","","false","","","",""
+"","","","","","html-keyboard-response","82","191724","0.0-78.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","83","192952","0.0-79.0-0.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","1226","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/car.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/adult_female_02_side.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","1","true","Ronrul","Ron","[""Ronrul"",""Ronrik""]","rul","female","side","","","false","","","",""
+"","","","","","html-keyboard-response","84","193454","0.0-80.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","85","196589","0.0-81.0-0.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","3134","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/fish.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/adult_female_02_side.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","0","true","Selrul","Sel","[""Selrik"",""Selrul""]","rul","female","side","","","false","","","",""
+"","","","","","html-keyboard-response","86","197091","0.0-82.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","87","198394","0.0-83.0-0.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","1303","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/school.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/adult_female.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","0","true","Rivrik","Riv","[""Rivrul"",""Rivrik""]","rik","female","front","","","false","","","",""
+"","","","","","html-keyboard-response","88","198905","0.0-84.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","89","200599","0.0-85.0-0.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","1693","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/woman.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/child_male.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","0","true","Daprik","Dap","[""Daprul"",""Daprik""]","rik","male","front","","","false","","","",""
+"","","","","","html-keyboard-response","90","201112","0.0-86.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","91","204760","0.0-87.0-0.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","3646","<p><strong>Attention Check</strong></p><p>Click the button labeled ""Right"".</p>","1","","","","","","","","","","true","","","attention-check","1"
+"","","","","","html-button-response","92","210082","0.0-88.0-0.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","5321","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""stimuli/bear_adult_male_01.png"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/adult_male_side.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","1","true","Fobrul","Fob","[""Fobrul"",""Fobrik""]","rul","male","side","","","false","","","",""
+"","","","","","html-keyboard-response","93","210598","0.0-89.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","94","211777","0.0-90.0-0.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","1178","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""stimuli/gate_adult_01.png"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/child_male_02.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","1","true","Yorrik","Yor","[""Yorrik"",""Yorrul""]","rik","male","front","","","false","","","",""
+"","","","","","html-keyboard-response","95","212280","0.0-91.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","96","213498","0.0-92.0-0.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","1217","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""stimuli/pitcher_adult_01.png"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/adult_female_02_side.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","0","true","Huxrul","Hux","[""Huxrik"",""Huxrul""]","rul","female","side","","","false","","","",""
+"","","","","","html-keyboard-response","97","214001","0.0-93.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","98","215460","0.0-94.0-0.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","1458","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/couch.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/child_female_02_side.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","0","true","Nixrul","Nix","[""Nixrik"",""Nixrul""]","rul","female","side","","","false","","","",""
+"","","","","","html-keyboard-response","99","215976","0.0-95.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","survey-text","100","246367","0.0-96.0","view","long","The animations facing the left side end in ""ruk"" and the ones facing to the front end in ""rul""","","30375","","{""Q0"":""The animations facing the left side end in \""ruk\"" and the ones facing to the front end in \""rul\""""}","","","","","","","","","","","","","",""

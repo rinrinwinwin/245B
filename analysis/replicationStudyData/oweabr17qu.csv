@@ -1,0 +1,1833 @@
+"success","timeout","failed_images","failed_audio","failed_video","trial_type","trial_index","time_elapsed","internal_node_id","main_cue","condition","cue_guess","view_history","rt","stimulus","response","test_trial","correct_choice","prompt_label","choices","suffix","gender","view","is_fixation","attention_check","correct","typed_response","expected_label","task","correct_response"
+"true","false","[]","[]","[]","preload","0","5","0.0-0.0","view","short","select a word that correctly corresponds to the picture","","","","","","","","","","","","","","","","","",""
+"","","","","","instructions","1","5832","0.0-1.0","view","short","select a word that correctly corresponds to the picture","[{""page_index"":0,""viewing_time"":5824}]","5825","","","","","","","","","","","","","","","",""
+"","","","","","instructions","2","13689","0.0-2.0","view","short","select a word that correctly corresponds to the picture","[{""page_index"":0,""viewing_time"":7855}]","7856","","","","","","","","","","","","","","","",""
+"","","","","","html-button-response","3","21857","0.0-3.0-0.0","view","short","select a word that correctly corresponds to the picture","","8166","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Mox</strong>.</p>
+                <img src=""stimuli/small_boat.jpg"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/large_boat.png"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/adult_female_02.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","1","false","Moxrik","Mox","[""Moxrik"",""Moxrul""]","rik","female","front","false","false","false","","","",""
+"","","","","","html-keyboard-response","4","22866","0.0-3.0-1.0-0.0","view","short","select a word that correctly corresponds to the picture","","null","<p style='color:red; font-size: 24px;'>Incorrect! Please try again.</p>","null","","","","","","","","","","","","","",""
+"","","","","","html-button-response","5","33274","0.0-3.1-0.1","view","short","select a word that correctly corresponds to the picture","","10405","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Mox</strong>.</p>
+                <img src=""stimuli/small_boat.jpg"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/large_boat.png"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/adult_female_02.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","1","false","Moxrik","Mox","[""Moxrik"",""Moxrul""]","rik","female","front","false","false","false","","","",""
+"","","","","","html-keyboard-response","6","34281","0.0-3.1-1.1-0.1","view","short","select a word that correctly corresponds to the picture","","null","<p style='color:red; font-size: 24px;'>Incorrect! Please try again.</p>","null","","","","","","","","","","","","","",""
+"","","","","","html-button-response","7","50230","0.0-3.2-0.2","view","short","select a word that correctly corresponds to the picture","","15945","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Mox</strong>.</p>
+                <img src=""stimuli/small_boat.jpg"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/large_boat.png"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/adult_female_02.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","1","false","Moxrik","Mox","[""Moxrik"",""Moxrul""]","rik","female","front","false","false","false","","","",""
+"","","","","","html-keyboard-response","8","51238","0.0-3.2-1.2-0.2","view","short","select a word that correctly corresponds to the picture","","null","<p style='color:red; font-size: 24px;'>Incorrect! Please try again.</p>","null","","","","","","","","","","","","","",""
+"","","","","","html-button-response","9","52679","0.0-3.3-0.3","view","short","select a word that correctly corresponds to the picture","","1438","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Mox</strong>.</p>
+                <img src=""stimuli/small_boat.jpg"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/large_boat.png"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/adult_female_02.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","0","false","Moxrik","Mox","[""Moxrik"",""Moxrul""]","rik","female","front","false","false","true","","","",""
+"","","","","","html-keyboard-response","10","53195","0.0-4.0","view","short","select a word that correctly corresponds to the picture","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","11","55398","0.0-5.0-0.0","view","short","select a word that correctly corresponds to the picture","","2199","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Yor</strong>.</p>
+                <img src=""stimuli/gate_adult_01.png"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/gate_child_01.png"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/adult_female_side.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","1","false","Yorrul","Yor","[""Yorrik"",""Yorrul""]","rul","female","side","false","false","true","","","",""
+"","","","","","html-keyboard-response","12","55903","0.0-6.0","view","short","select a word that correctly corresponds to the picture","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","13","58318","0.0-7.0-0.0","view","short","select a word that correctly corresponds to the picture","","2412","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Cov</strong>.</p>
+                <img src=""stimuli/penguin.png"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/penguin_large.png"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/adult_female_02.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","0","false","Covrik","Cov","[""Covrik"",""Covrul""]","rik","female","front","false","false","true","","","",""
+"","","","","","html-keyboard-response","14","58821","0.0-8.0","view","short","select a word that correctly corresponds to the picture","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","survey-text","15","65422","0.0-9.0-0.0","view","short","select a word that correctly corresponds to the picture","","6595","","{""Q0"":""covrik""}","","","","","","","","","true","true","covrik","covrik","",""
+"","","","","","html-button-response","16","67208","0.0-10.0-0.0","view","short","select a word that correctly corresponds to the picture","","1783","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Fob</strong>.</p>
+                <img src=""stimuli/bear_adult_male_01.png"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/bear_child_01.png"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/child_male_02.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","0","false","Fobrik","Fob","[""Fobrik"",""Fobrul""]","rik","male","front","false","false","true","","","",""
+"","","","","","html-keyboard-response","17","67715","0.0-11.0","view","short","select a word that correctly corresponds to the picture","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","18","70389","0.0-12.0-0.0","view","short","select a word that correctly corresponds to the picture","","2671","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Nuv</strong>.</p>
+                <img src=""stimuli/asteroid_small.png"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/asteroid_large.jpg"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/adult_male_side.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","1","false","Nuvrul","Nuv","[""Nuvrik"",""Nuvrul""]","rul","male","side","false","false","true","","","",""
+"","","","","","html-keyboard-response","19","70906","0.0-13.0","view","short","select a word that correctly corresponds to the picture","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","20","73731","0.0-14.0-0.0","view","short","select a word that correctly corresponds to the picture","","2821","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Lom</strong>.</p>
+                <img src=""stimuli/bunny.jpg"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/rabbit.jpg"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/child_male_02.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","1","false","Lomrik","Lom","[""Lomrik"",""Lomrul""]","rik","male","front","false","false","false","","","",""
+"","","","","","html-keyboard-response","21","74736","0.0-14.0-1.0-0.0","view","short","select a word that correctly corresponds to the picture","","null","<p style='color:red; font-size: 24px;'>Incorrect! Please try again.</p>","null","","","","","","","","","","","","","",""
+"","","","","","html-button-response","22","75586","0.0-14.1-0.1","view","short","select a word that correctly corresponds to the picture","","847","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Lom</strong>.</p>
+                <img src=""stimuli/bunny.jpg"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/rabbit.jpg"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/child_male_02.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","0","false","Lomrik","Lom","[""Lomrik"",""Lomrul""]","rik","male","front","false","false","true","","","",""
+"","","","","","html-keyboard-response","23","76094","0.0-15.0","view","short","select a word that correctly corresponds to the picture","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","survey-text","24","81559","0.0-16.0-0.0","view","short","select a word that correctly corresponds to the picture","","5460","","{""Q0"":""lomrik""}","","","","","","","","","true","true","lomrik","lomrik","",""
+"","","","","","html-button-response","25","86346","0.0-17.0-0.0","view","short","select a word that correctly corresponds to the picture","","4784","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Fon</strong>.</p>
+                <img src=""stimuli/drawer.png"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/warddrobe.jpg"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/adult_male_side.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","1","false","Fonrul","Fon","[""Fonrik"",""Fonrul""]","rul","male","side","false","false","true","","","",""
+"","","","","","html-keyboard-response","26","86860","0.0-18.0","view","short","select a word that correctly corresponds to the picture","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","27","88785","0.0-19.0-0.0","view","short","select a word that correctly corresponds to the picture","","1924","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Ola</strong>.</p>
+                <img src=""stimuli/basket_small.png"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/basket_large.png"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/adult_female_02.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","0","false","Olarik","Ola","[""Olarik"",""Olarul""]","rik","female","front","false","false","true","","","",""
+"","","","","","html-keyboard-response","28","89293","0.0-20.0","view","short","select a word that correctly corresponds to the picture","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","29","93373","0.0-21.0-0.0","view","short","select a word that correctly corresponds to the picture","","4077","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Ibo</strong>.</p>
+                <img src=""stimuli/daisy_adult.png"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/daisy_small.png"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/child_male_02.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","1","false","Iborik","Ibo","[""Iborik"",""Iborul""]","rik","male","front","false","false","false","","","",""
+"","","","","","html-keyboard-response","30","94375","0.0-21.0-1.0-0.0","view","short","select a word that correctly corresponds to the picture","","null","<p style='color:red; font-size: 24px;'>Incorrect! Please try again.</p>","null","","","","","","","","","","","","","",""
+"","","","","","html-button-response","31","95892","0.0-21.1-0.1","view","short","select a word that correctly corresponds to the picture","","1515","
+          <style>
+            .quote-box {
+              border: 2px solid #ccc;
+              padding: 16px;
+              margin: 20px auto;
+              border-radius: 8px;
+              background-color: #ffffff;
+              text-align: center;
+            }
+            .stimuli-image {
+              display: block;
+              margin: 10px auto;
+              max-height: 150px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+          <div style=""display: flex; align-items: center;"">
+            <div style=""flex: 1; padding-right: 20px;"">
+              <div class=""quote-box"">
+                <p>This is called <strong>Ibo</strong>.</p>
+                <img src=""stimuli/daisy_adult.png"" class=""stimuli-image"">
+              </div>
+
+              <p style=""text-align: center;"">What is this called?</p>
+
+              <div class=""quote-box"">
+                <img src=""stimuli/daisy_small.png"" class=""stimuli-image"">
+              </div>
+
+              <div class=""button-spacing""></div>
+            </div>
+
+            <div style=""flex-shrink: 0; width: 180px; height: 250px; display: flex; align-items: center; justify-content: center;"">
+            <img src=""interlocutor/child_male_02.png"" style=""width: 100%; height: 100%; object-fit: contain;"" />
+            </div>
+        ","0","false","Iborik","Ibo","[""Iborik"",""Iborul""]","rik","male","front","false","false","true","","","",""
+"","","","","","html-keyboard-response","32","96409","0.0-22.0","view","short","select a word that correctly corresponds to the picture","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","survey-text","33","105616","0.0-23.0-0.0","view","short","select a word that correctly corresponds to the picture","","9202","","{""Q0"":""iborik""}","","","","","","","","","true","true","iborik","iborik","",""
+"","","","","","instructions","34","108045","0.0-24.0","view","short","select a word that correctly corresponds to the picture","[{""page_index"":0,""viewing_time"":2428}]","2428","","","","","","","","","","","","","","","",""
+"","","","","","html-button-response","35","111467","0.0-25.0-0.0","view","short","select a word that correctly corresponds to the picture","","3421","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/tree.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/elder_female_side.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","1","true","Jorrul","Jor","[""Jorrik"",""Jorrul""]","rul","female","side","","","true","","","",""
+"","","","","","html-keyboard-response","36","111976","0.0-26.0","view","short","select a word that correctly corresponds to the picture","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","37","114660","0.0-27.0-0.0","view","short","select a word that correctly corresponds to the picture","","2681","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/elder.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/child_female.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","0","true","Gynrik","Gyn","[""Gynrik"",""Gynrul""]","rik","female","front","","","true","","","",""
+"","","","","","html-keyboard-response","38","115170","0.0-28.0","view","short","select a word that correctly corresponds to the picture","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","39","116145","0.0-29.0-0.0","view","short","select a word that correctly corresponds to the picture","","972","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/fish.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/child_female_03_side.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","1","true","Selrul","Sel","[""Selrul"",""Selrik""]","rul","female","side","","","false","","","",""
+"","","","","","html-keyboard-response","40","116660","0.0-30.0","view","short","select a word that correctly corresponds to the picture","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","41","118372","0.0-31.0-0.0","view","short","select a word that correctly corresponds to the picture","","1708","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/sandwich.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/child_female_02.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","1","true","Nixrik","Nix","[""Nixrul"",""Nixrik""]","rik","female","front","","","true","","","",""
+"","","","","","html-keyboard-response","42","118887","0.0-32.0","view","short","select a word that correctly corresponds to the picture","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","43","119616","0.0-33.0-0.0","view","short","select a word that correctly corresponds to the picture","","726","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/bell.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/adult_female_02_side.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","1","true","Mozrul","Moz","[""Mozrik"",""Mozrul""]","rul","female","side","","","true","","","",""
+"","","","","","html-keyboard-response","44","120118","0.0-34.0","view","short","select a word that correctly corresponds to the picture","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","45","121172","0.0-35.0-0.0","view","short","select a word that correctly corresponds to the picture","","1052","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/globe.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/teen_male_side.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","1","true","Vekrul","Vek","[""Vekrik"",""Vekrul""]","rul","male","side","","","true","","","",""
+"","","","","","html-keyboard-response","46","121685","0.0-36.0","view","short","select a word that correctly corresponds to the picture","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","47","122948","0.0-37.0-0.0","view","short","select a word that correctly corresponds to the picture","","1260","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/corn.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/elder_female.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","0","true","Lumrik","Lum","[""Lumrul"",""Lumrik""]","rik","female","front","","","false","","","",""
+"","","","","","html-keyboard-response","48","123461","0.0-38.0","view","short","select a word that correctly corresponds to the picture","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","49","124324","0.0-39.0-0.0","view","short","select a word that correctly corresponds to the picture","","860","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""stimuli/bear_adult_male_01.png"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/adult_male_02_side.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","1","true","Fobrul","Fob","[""Fobrul"",""Fobrik""]","rul","male","side","","","false","","","",""
+"","","","","","html-keyboard-response","50","124835","0.0-40.0","view","short","select a word that correctly corresponds to the picture","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","51","125880","0.0-41.0-0.0","view","short","select a word that correctly corresponds to the picture","","1042","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""stimuli/bokchoy_adult_01.png"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/adult_male_02.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","0","true","Danrik","Dan","[""Danrik"",""Danrul""]","rik","male","front","","","true","","","",""
+"","","","","","html-keyboard-response","52","126386","0.0-42.0","view","short","select a word that correctly corresponds to the picture","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","53","127534","0.0-43.0-0.0","view","short","select a word that correctly corresponds to the picture","","1145","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/bag.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/adult_female_side.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","1","true","Gulrul","Gul","[""Gulrul"",""Gulrik""]","rul","female","side","","","false","","","",""
+"","","","","","html-keyboard-response","54","128047","0.0-44.0","view","short","select a word that correctly corresponds to the picture","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","55","131530","0.0-45.0-0.0","view","short","select a word that correctly corresponds to the picture","","3481","<p><strong>Attention Check</strong></p><p>Click the button labeled ""Right"".</p>","1","","","","","","","","","","true","","","attention-check","1"
+"","","","","","html-button-response","56","132995","0.0-46.0-0.0","view","short","select a word that correctly corresponds to the picture","","1463","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/car.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/child_male.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","1","true","Ronrik","Ron","[""Ronrik"",""Ronrul""]","rik","male","front","","","false","","","",""
+"","","","","","html-keyboard-response","57","133500","0.0-47.0","view","short","select a word that correctly corresponds to the picture","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","58","134511","0.0-48.0-0.0","view","short","select a word that correctly corresponds to the picture","","1009","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/candy.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/child_female_03.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","1","true","Wibrik","Wib","[""Wibrik"",""Wibrul""]","rik","female","front","","","false","","","",""
+"","","","","","html-keyboard-response","59","135016","0.0-49.0","view","short","select a word that correctly corresponds to the picture","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","60","136177","0.0-50.0-0.0","view","short","select a word that correctly corresponds to the picture","","1159","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""stimuli/pitcher_adult_01.png"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/child_female_03.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","1","true","Huxrik","Hux","[""Huxrik"",""Huxrul""]","rik","female","front","","","false","","","",""
+"","","","","","html-keyboard-response","61","136681","0.0-51.0","view","short","select a word that correctly corresponds to the picture","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","62","137691","0.0-52.0-0.0","view","short","select a word that correctly corresponds to the picture","","1007","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/toothbrush.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/teen_male_side.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","0","true","Zanrul","Zan","[""Zanrul"",""Zanrik""]","rul","male","side","","","true","","","",""
+"","","","","","html-keyboard-response","63","138197","0.0-53.0","view","short","select a word that correctly corresponds to the picture","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","64","138997","0.0-54.0-0.0","view","short","select a word that correctly corresponds to the picture","","798","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""stimuli/gate_adult_01.png"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/elder_male.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","1","true","Yorrik","Yor","[""Yorrik"",""Yorrul""]","rik","male","front","","","false","","","",""
+"","","","","","html-keyboard-response","65","139504","0.0-55.0","view","short","select a word that correctly corresponds to the picture","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","66","140010","0.0-56.0-0.0","view","short","select a word that correctly corresponds to the picture","","504","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/chair.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/child_female_03_side.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","1","true","Yanrul","Yan","[""Yanrul"",""Yanrik""]","rul","female","side","","","false","","","",""
+"","","","","","html-keyboard-response","67","140521","0.0-57.0","view","short","select a word that correctly corresponds to the picture","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","68","141204","0.0-58.0-0.0","view","short","select a word that correctly corresponds to the picture","","680","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/cherry.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/teen_male.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","1","true","Fumrik","Fum","[""Fumrik"",""Fumrul""]","rik","male","front","","","false","","","",""
+"","","","","","html-keyboard-response","69","141716","0.0-59.0","view","short","select a word that correctly corresponds to the picture","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","70","143463","0.0-60.0-0.0","view","short","select a word that correctly corresponds to the picture","","1743","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/man.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/child_male.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","1","true","Tyrrik","Tyr","[""Tyrrul"",""Tyrrik""]","rik","male","front","","","true","","","",""
+"","","","","","html-keyboard-response","71","143968","0.0-61.0","view","short","select a word that correctly corresponds to the picture","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","72","144737","0.0-62.0-0.0","view","short","select a word that correctly corresponds to the picture","","766","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/plane.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/child_male_02_side.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","1","true","Meyrul","Mey","[""Meyrul"",""Meyrik""]","rul","male","side","","","false","","","",""
+"","","","","","html-keyboard-response","73","145252","0.0-63.0","view","short","select a word that correctly corresponds to the picture","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","74","146022","0.0-64.0-0.0","view","short","select a word that correctly corresponds to the picture","","766","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/bird.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/adult_male_02.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","1","true","Telrik","Tel","[""Telrul"",""Telrik""]","rik","male","front","","","true","","","",""
+"","","","","","html-keyboard-response","75","146524","0.0-65.0","view","short","select a word that correctly corresponds to the picture","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","76","148393","0.0-66.0-0.0","view","short","select a word that correctly corresponds to the picture","","1866","<p><strong>Attention Check</strong></p><p>Click the button labeled ""Right"".</p>","1","","","","","","","","","","true","","","attention-check","1"
+"","","","","","html-button-response","77","149777","0.0-67.0-0.0","view","short","select a word that correctly corresponds to the picture","","1383","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/school.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/child_female_02.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","1","true","Rivrik","Riv","[""Rivrik"",""Rivrul""]","rik","female","front","","","false","","","",""
+"","","","","","html-keyboard-response","78","150292","0.0-68.0","view","short","select a word that correctly corresponds to the picture","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","79","151144","0.0-69.0-0.0","view","short","select a word that correctly corresponds to the picture","","849","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/woman.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/adult_female_side.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","1","true","Daprul","Dap","[""Daprul"",""Daprik""]","rul","female","side","","","false","","","",""
+"","","","","","html-keyboard-response","80","151661","0.0-70.0","view","short","select a word that correctly corresponds to the picture","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","81","152267","0.0-71.0-0.0","view","short","select a word that correctly corresponds to the picture","","603","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/horse.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/adult_male_side.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","1","true","Bewrul","Bew","[""Bewrul"",""Bewrik""]","rul","male","side","","","false","","","",""
+"","","","","","html-keyboard-response","82","152778","0.0-72.0","view","short","select a word that correctly corresponds to the picture","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","html-button-response","83","153312","0.0-73.0-0.0","view","short","select a word that correctly corresponds to the picture","","531","
+          <style>
+            .test-trial-container {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              margin: 0 auto;
+              max-width: 900px;
+            }
+            .test-stimulus {
+              flex: 1;
+              text-align: center;
+            }
+            .stimulus-box {
+              border: 2px solid #ccc;
+              padding: 20px;
+              border-radius: 10px;
+              display: inline-block;
+              background-color: #f9f9f9;
+            }
+            .stimulus-image {
+              height: 200px;
+              max-width: 200px;
+              object-fit: contain;
+            }
+            .interlocutor-image {
+              height: 250px;
+            }
+            .button-spacing {
+              margin-top: 30px;
+            }
+          </style>
+
+         <div class=""test-trial-container"" style=""display: flex; justify-content: center; gap: 40px; align-items: flex-start;"">
+
+        
+        <div class=""stimulus-box"">
+        <img src=""teststimuli/couch.svg"" class=""stimulus-image"">
+        </div>
+
+      
+        <div class=""interlocutor-box"">
+        <div class=""prompt-text"">What would I call this?</div>
+        <div class=""button-spacing""></div>
+        <img src=""interlocutor/elder_male_side.png"" class=""interlocutor-image"">
+        </div>
+
+        </div>
+
+        <div class=""button-spacing""></div>
+        ","1","true","Nixrul","Nix","[""Nixrul"",""Nixrik""]","rul","male","side","","","false","","","",""
+"","","","","","html-keyboard-response","84","153823","0.0-74.0","view","short","select a word that correctly corresponds to the picture","","null","<div style=""font-size: 48px;"">+</div>","null","","","","","","","","true","","","","","",""
+"","","","","","survey-text","85","200105","0.0-75.0","view","short","select a word that correctly corresponds to the picture","","46275","","{""Q0"":""select a word that correctly corresponds to the picture""}","","","","","","","","","","","","","",""
